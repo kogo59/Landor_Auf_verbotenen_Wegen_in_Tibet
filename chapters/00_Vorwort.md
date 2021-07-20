@@ -55,9 +55,9 @@ September 1898.
 ## Abbildungen.
 
 * [Der Verfasser vor und nach seiner Reise.](ch001.xhtml#b000) (Titelbild)
-* Mein chinesischer Paß
-* Aufbruch der Trägercolonne Separatbild)
-* Mein treuer Begleiter Tschanden Sing
+* [Mein chinesischer Paß](ch003.xhtml#b003)
+* [Aufbruch der Trägercolonne](ch003.xhtml#b008) (Separatbild)
+* [Mein treuer Begleiter Tschanden Sing](ch003.xhtml#b009)
 * Mein Heim in Askott
 * Junger Raot
 * Alter Raot auf einem Baume
