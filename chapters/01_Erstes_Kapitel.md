@@ -338,7 +338,6 @@ strahlte vor Freude, als ich ihm definitiv sagte, daß er mich bis Bhot begleite
 solle. Er war der muthigste von meinem ganzen Gefolge und hat bei mir
 ausgehalten durch dick und dünn.
 
-
 :::
 
 :::: align-center

@@ -58,14 +58,14 @@ September 1898.
 * [Mein chinesischer Paß](ch003.xhtml#b003)
 * [Aufbruch der Trägercolonne](ch003.xhtml#b008) (Separatbild)
 * [Mein treuer Begleiter Tschanden Sing](ch003.xhtml#b009)
-* Mein Heim in Askott
-* Junger Raot
-* Alter Raot auf einem Baume
-* Unter den Waldmenschen  (Separatbild)
-* Kopf eines jungen Raot
-* Raots mit Kindern
-* Junger Raot
-* Raot-Weiber
+* [Mein Heim in Askot](ch004.xhtml#b013)
+* [Junger Raot](ch004.xhtml#b015)
+* [Alter Raot auf einem Baume](ch004.xhtml#b016)
+* [Unter den Waldmenschen](ch004.xhtml#b017)  (Separatbild)
+* [Kopf eines jungen Raot](ch004.xhtml#b018)
+* [Raots mit Kindern](ch004.xhtml#b019)
+* [Junger Raot](ch004.xhtml#b021)
+* [Raot-Weiber](ch004.xhtml#b022)
 * Der Rajiwar, sein Bruder und dessen Sohn
 * Fakir auf der Rückkehr vom Mansarowar-See
 * Der Rajiwar und sein Bruder in Dandies
