@@ -1,8 +1,8 @@
-# Zweites Kapitel<br />**Unter den Waldmenschen.** {#zwei .unnumbered}
+# Zweites Kapitel.<br />**Unter den Waldmenschen.** {#zwei .unnumbered}
 
 
 ::: justified
-**D**as Land bis Bhot ist verhältnißmäßig gut bekannt, weshalb ich auf dem ersten
+Das Land bis Bhot ist verhältnißmäßig gut bekannt, weshalb ich auf dem ersten
 Theile meiner Reise nicht zu lange verweilen will.
 
 Am 9. Mai ging mein ganzes Gepäck, von zwei Tschaprassis begleitet, nach der

@@ -66,13 +66,13 @@ September 1898.
 * [Raots mit Kindern](ch004.xhtml#b019)
 * [Junger Raot](ch004.xhtml#b021)
 * [Raot-Weiber](ch004.xhtml#b022)
-* Der Rajiwar, sein Bruder und dessen Sohn
-* Fakir auf der Rückkehr vom Mansarowar-See
-* Der Rajiwar und sein Bruder in Dandies
-* Darma-Schokas und Tibetaner
-* Himalaja-Kette mit Nanda Devi und Trisul. Chromotafel nach Aquarell von H. S. Landor (Separatbild)
-* Der Lehrer von Pungo
-* Webendes Schoka-Weib
+* [Der Rajiwar, sein Bruder und dessen Sohn](ch005.xhtml#b026)
+* [Fakir auf der Rückkehr vom Mansarowar-See](ch005.xhtml#b027)
+* [Der Rajiwar und sein Bruder in Dandies](ch005.xhtml#b031)
+* [Darma-Schokas und Tibetaner](ch005.xhtml#b035)
+* [Himalaja-Kette mit Nanda Devi und Trisul](ch005.xhtml#b036) Chromotafel nach Aquarell von H. S. Landor (Separatbild)
+* [Der Lehrer von Pungo](ch005.xhtml#b039)
+* [Webendes Schoka-Weib](ch005.xhtml#b040)
 * Grab und fliegende Gebete
 * Ein alter Schoka
 * Ein Zelt für einen „Sahib“
