@@ -200,7 +200,7 @@ Die Muster der mehrfarbigen Gewebe werden aus dem Kopfe gearbeitet; sie
 enthalten weder Bogenlinien noch Kreise, sondern weisen nur aus geraden Linien
 zusammengesetzte Ornamente auf, Zusammenstellungen von kleinen Rauten und
 Quadraten, die durch lange, dreifarbige parallele Streifen voneinander
-getrennt sind und die Haupt- ideen der Schokas in der Ornamentik der Weberei
+getrennt sind und die Hauptideen der Schokas in der Ornamentik der Weberei
 darstellen.
 
 Die begabtern unter den jungen Schoka-Weibern besitzen viel Geschick im Weben

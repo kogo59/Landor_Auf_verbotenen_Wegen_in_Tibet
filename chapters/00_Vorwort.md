@@ -73,10 +73,10 @@ September 1898.
 * [Himalaja-Kette mit Nanda Devi und Trisul](ch005.xhtml#b036) Chromotafel nach Aquarell von H. S. Landor (Separatbild)
 * [Der Lehrer von Pungo](ch005.xhtml#b039)
 * [Webendes Schoka-Weib](ch005.xhtml#b040)
-* Grab und fliegende Gebete
-* Ein alter Schoka
-* Ein Zelt für einen „Sahib“
-* Tokudar Lal Sing und sein Bruder
+* [Grab und fliegende Gebete](ch006.xhtml#b043)
+* [Ein alter Schoka](ch006.xhtml#b048)
+* [Ein Zelt für einen „Sahib“](ch006.xhtml#b050)
+* [Tokudar Lal Sing und sein Bruder](ch006.xhtml#b051)
 * Der Nerpani-Pfad
 * Am Abgrund
 * Der Tschai-Lek-Paß
@@ -122,9 +122,9 @@ September 1898.
 * Unser Lager im Schnee
 * Die Schneelinie in 4870 Meter Höhe
 * Der Mangschan-Gletscher
-* Mein Nebelbild in einer Aureole. Chromotafel nach Aquarell von H. S. Landor (Separatbild)
+* [Mein Nebelbild in einer Aureole](ch006.xhtml#b049a) Chromotafel nach Aquarell von H. S. Landor (Separatbild)
 * „Ich weckte den Rongba.‟
-* Aufstieg zum Lumpiya-Paß (Separatbild)
+* [Aufstieg zum Lumpiya-Paß](ch006.xhtml#b049b) (Separatbild)
 * Mühseliger Aufstieg
 * Verdächtige Fußstapfen Separatbild)
 * Begrüßung des heiligen Berges Kelas (Separatbild)
@@ -150,7 +150,7 @@ September 1898.
 * Stiefel aus Lhassa
 * Männerstiefel aus Schigatse
 * Schneestiefel
-* Tibetanische Wahrsagerin. Chromotafel nach Aquarell von H. S. Landor (Separatbild)
+* [Tibetanische Wahrsagerin](ch006.xhtml#b049c) Chromotafel nach Aquarell von H. S. Landor (Separatbild)
 * Silbermünzen aus  Lhasa
 * Tibetanische Kupfermünzen
 * Tibetanische Ohrringe
