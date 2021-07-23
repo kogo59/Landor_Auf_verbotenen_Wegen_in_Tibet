@@ -185,7 +185,7 @@ zahlreicher zu sein als je.“
 
 „Da gehe ich ja einer recht lebhaften Zeit entgegen“, dachte ich bei mir.
 
-:::: {.wrap-40 .float-left .break-before }
+:::: {.w-40 .float-left .break-before }
 ![Ein alter Schoka.](Auf_verbotenen_Wegen_in_Tibet_048.jpg "Ein alter Schoka."){#b048}
 ::::
 

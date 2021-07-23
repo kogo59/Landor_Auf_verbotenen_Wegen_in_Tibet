@@ -165,7 +165,7 @@ Schokas, ihre Art des Spinnens und der Herstellung von Stoffen erklären zu
 lassen. Die Webstühle der Schokas gleichen in jeder Hinsicht den bei den
 eigentlichen Tibetanern üblichen.
 
-:::: {.wrap-40 .float-right }
+:::: {.w-40 .float-right }
 ![Der Lehrer von Pungo.](Auf_verbotenen_Wegen_in_Tibet_039.jpg "Der Lehrer von Pungo."){#b039}
 ::::
 

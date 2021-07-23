@@ -82,15 +82,15 @@ September 1898.
 * [Der Tschai-Lek-Paß](ch007.xhtml#b056)
 * [Der Nerpani-Pfad](ch007.xhtml#b057) Chromotafel nach Aquarell von H. S. Landor. (Separatbild)
 * [Schoka-Häuser](ch007.xhtml#b057a)
-* Mein Haus in Garbyan
-* Morgentoilette eines jungen Schoka
-* Haus eines vornehmen Schoka
-* Schoka-Haus mit einem rauchenden alten Weibe
-* Straße in Garbyang (Separatbild)
-* Der Rabi Schankom bei Gungi
-* Gungi Schankom
-* Gefährliche Rutschpartie
-* Der Gräberplatz Tschiram
+* [Mein Haus in Garbyan](ch009.xhtml#b067)
+* [Morgentoilette eines jungen Schoka](ch009.xhtml#b068)
+* [Haus eines vornehmen Schoka](ch009.xhtml#b068a)
+* [Schoka-Haus mit einem rauchenden alten Weibe](ch009.xhtml#b072)
+* [Straße in Garbyang](ch009.xhtml#b072a) (Separatbild)
+* [Der Rabi Schankom bei Gungi](ch009.xhtml#b073)
+* [Gungi Schankom](ch009.xhtml#b074)
+* [Gefährliche Rutschpartie](ch009.xhtml#b074a)
+* [Der Gräberplatz Tschiram](ch009.xhtml#b077)
 * Schneebrücke über den Kuti-Fluß (Separatbild)
 * Kuti
 * Mein Bankier in Almora
