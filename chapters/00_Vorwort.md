@@ -91,10 +91,10 @@ September 1898.
 * [Gungi Schankom](ch009.xhtml#b074)
 * [Gefährliche Rutschpartie](ch009.xhtml#b074a)
 * [Der Gräberplatz Tschiram](ch009.xhtml#b077)
-* Schneebrücke über den Kuti-Fluß (Separatbild)
-* Kuti
-* Mein Bankier in Almora
-* Das Thal von Garbyang
+* [Schneebrücke über den Kuti-Fluß](ch010.xhtml#b080) (Separatbild)
+* [Kuti](ch010.xhtml#b081)
+* [Mein Bankier in Almora](ch010.xhtml#b086)
+* [Das Thal von Garbyang](ch010.xhtml#b087)
 * Eine Schoka-Schönheit
 * Auf dem Wege zum Rambang
 * Schoka-Ohrringe
@@ -103,7 +103,7 @@ September 1898.
 * Klageweiber an die Bahre gebunden.
 * Aufbruch des Leichenzug
 * Leichenverbrennungsofen der Schokas
-* Die Frauen umtanzen die Todtenpuppr
+* Die Frauen umtanzen die Todtenpuppe
 * Die Ziege mit den Kleidern des Todten
 * Die Ziege wird zum Dorf hinausgejagt.
 * Tanz der Männer um die Todtenpuppe
