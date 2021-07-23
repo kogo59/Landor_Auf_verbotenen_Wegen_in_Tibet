@@ -70,18 +70,18 @@ September 1898.
 * [Fakir auf der Rückkehr vom Mansarowar-See](ch005.xhtml#b027)
 * [Der Rajiwar und sein Bruder in Dandies](ch005.xhtml#b031)
 * [Darma-Schokas und Tibetaner](ch005.xhtml#b035)
-* [Himalaja-Kette mit Nanda Devi und Trisul](ch005.xhtml#b036) Chromotafel nach Aquarell von H. S. Landor (Separatbild)
+* [Himalaja-Kette mit Nanda Devi und Trisul.](ch005.xhtml#b036) Chromotafel nach Aquarell von H. S. Landor (Separatbild)
 * [Der Lehrer von Pungo](ch005.xhtml#b039)
 * [Webendes Schoka-Weib](ch005.xhtml#b040)
 * [Grab und fliegende Gebete](ch006.xhtml#b043)
 * [Ein alter Schoka](ch006.xhtml#b048)
 * [Ein Zelt für einen „Sahib“](ch006.xhtml#b050)
 * [Tokudar Lal Sing und sein Bruder](ch006.xhtml#b051)
-* Der Nerpani-Pfad
-* Am Abgrund
-* Der Tschai-Lek-Paß
-* Der Nerpani-Pfad. Chromotafel nach Aquarell von H. S. Landor. (Separatbild)
-* Schoka-Häuser
+* [Der Nerpani-Pfad](ch007.xhtml#b054)
+* [Am Abgrund](ch007.xhtml#b055)
+* [Der Tschai-Lek-Paß](ch007.xhtml#b056)
+* [Der Nerpani-Pfad](ch007.xhtml#b057) Chromotafel nach Aquarell von H. S. Landor. (Separatbild)
+* [Schoka-Häuser](ch007.xhtml#b057a)
 * Mein Haus in Garbyan
 * Morgentoilette eines jungen Schoka
 * Haus eines vornehmen Schoka
