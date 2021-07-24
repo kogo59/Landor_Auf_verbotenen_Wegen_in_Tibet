@@ -248,4 +248,4 @@ gehenden Sport ein Ende machte.
 
 [^0801]: [*Thar*: vergleiche [Himalaya-Tahr](https://de.wikipedia.org/wiki/Himalaya-Tahr)]{.footnote}
 
-[^0802]: [*Ghural*: vergleiche [Goral](https://de.wikipedia.org/wiki/Gorale)]{.footnote}
+[^0802]: [*Ghural*: vergleiche [Gorale](https://de.wikipedia.org/wiki/Gorale)]{.footnote}

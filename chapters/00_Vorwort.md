@@ -95,20 +95,20 @@ September 1898.
 * [Kuti](ch010.xhtml#b081)
 * [Mein Bankier in Almora](ch010.xhtml#b086)
 * [Das Thal von Garbyang](ch010.xhtml#b087)
-* Eine Schoka-Schönheit
-* Auf dem Wege zum Rambang
-* Schoka-Ohrringe
-* Schoka-Tibetanerin, Halbblut. (Separatbild)
-* Rambang-Mädchen mit Schmuck
-* Klageweiber an die Bahre gebunden.
-* Aufbruch des Leichenzug
-* Leichenverbrennungsofen der Schokas
-* Die Frauen umtanzen die Todtenpuppe
-* Die Ziege mit den Kleidern des Todten
-* Die Ziege wird zum Dorf hinausgejagt.
-* Tanz der Männer um die Todtenpuppe
-* Der Ziege wird das Herz herausgerissen
-* Tödtung des geopferten Yaks
+* [Eine Schoka-Schönheit](ch011.xhtml#b089)
+* [Auf dem Wege zum Rambang](ch011.xhtml#b090)
+* [Schoka-Ohrringe](ch011.xhtml#b091)
+* [Schoka-Tibetanerin, Halbblut](ch011.xhtml#b092) (Separatbild)
+* [Rambang-Mädchen mit Schmuck](ch011.xhtml#b093)
+* [Klageweiber an die Bahre gebunden](ch011.xhtml#b094)
+* [Aufbruch des Leichenzug](ch011.xhtml#b096)
+* [Leichenverbrennungsofen der Schokas](ch011.xhtml#b097)
+* [Die Frauen umtanzen die Todtenpuppe](ch011.xhtml#b098)
+* [Die Ziege mit den Kleidern des Todten](ch011.xhtml#b099)
+* [Die Ziege wird zum Dorf hinausgejagt.](ch011.xhtml#b100)
+* [Tanz der Männer um die Todtenpuppe](ch011.xhtml#b101)
+* [Der Ziege wird das Herz herausgerissen](ch011.xhtml#b103)
+* [Tödtung des geopferten Yaks](ch011.xhtml#b104)
 * Katschi und seine Verwandten
 * Die Tschongur-Brücke vor der Zerstörung
 * Die gefährlichste Stelle am Kali.
