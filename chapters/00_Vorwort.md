@@ -109,12 +109,12 @@ September 1898.
 * [Tanz der Männer um die Todtenpuppe](ch011.xhtml#b101)
 * [Der Ziege wird das Herz herausgerissen](ch011.xhtml#b103)
 * [Tödtung des geopferten Yaks](ch011.xhtml#b104)
-* Katschi und seine Verwandten
-* Die Tschongur-Brücke vor der Zerstörung
-* Die gefährlichste Stelle am Kali.
-* Schoka-Haus mit primitiver Leiter
-* Die Photographie, die den Tod des Kindes verursachte
-* Schloßruine in Kuti
+* [Katschi und seine Verwandten](ch012.xhtml#b107)
+* [Die Tschongur-Brücke vor der Zerstörung](ch012.xhtml#b111)
+* [Die gefährlichste Stelle am Kali](ch012.xhtml#b112)
+* [Schoka-Haus mit primitiver Leiter](ch012.xhtml#b116)
+* [Die Photographie, die den Tod des Kindes verursachte](ch012.xhtml#b118)
+* [Schloßruine in Kuti](ch012.xhtml#b119)
 * Aussätzige
 * Man Sing, der Aussätzige
 * Der Verfasser und seine zwei treuen Gefährten (Separatbild)
