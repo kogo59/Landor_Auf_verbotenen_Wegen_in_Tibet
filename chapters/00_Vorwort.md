@@ -121,9 +121,9 @@ September 1898.
 * [Der Jolinkan- oder Lebung-Paß](ch013.xhtml#b129)
 * [Unser Lager im Schnee](ch013.xhtml#b134)
 * [Die Schneelinie in 4870 Meter Höhe](ch013.xhtml#b137)
-* Der Mangschan-Gletscher
-* [Mein Nebelbild in einer Aureole](ch006.xhtml#b049a) Chromotafel nach Aquarell von H. S. Landor (Separatbild)
-* „Ich weckte den Rongba.‟
+* [Der Mangschan-Gletscher](ch014.xhtml#b144)
+* [Mein Nebelbild in einer Aureole](ch014.xhtml#b049a) Chromotafel nach Aquarell von H. S. Landor (Separatbild)
+* [„Ich weckte den Rongba.‟](ch014.xhtml#b149)
 * [Aufstieg zum Lumpiya-Paß](ch006.xhtml#b049b) (Separatbild)
 * Mühseliger Aufstieg
 * Verdächtige Fußstapfen Separatbild)

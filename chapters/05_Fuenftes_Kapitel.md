@@ -215,10 +215,6 @@ meinen Malkasten abgeschnallt hatte, versuchte, auf dem Papier die Landschaft
 vor mir wiederzugeben. „Ich bin ein Thor“, sagte ich zu mir, „das malen zu
 wollen! Welcher Maler könnte diesen Bergen gerecht werden?“
 
-:::: {.wrap-60 .break-before }
-![Mein Nebelbild in einer Aureole.](Auf_verbotenen_Wegen_in_Tibet_049a.jpg "Mein Nebelbild in einer Aureole."){#b049a}
-::::
-
 :::: {.wrap-100 .break-before }
 ![Aufstieg zum Lumpiya-Paß.](Auf_verbotenen_Wegen_in_Tibet_049b.jpg "Aufstieg zum Lumpiya-Paß."){#b049b}
 ::::
