@@ -115,12 +115,12 @@ September 1898.
 * [Schoka-Haus mit primitiver Leiter](ch012.xhtml#b116)
 * [Die Photographie, die den Tod des Kindes verursachte](ch012.xhtml#b118)
 * [Schloßruine in Kuti](ch012.xhtml#b119)
-* Aussätzige
-* Man Sing, der Aussätzige
-* Der Verfasser und seine zwei treuen Gefährten (Separatbild)
-* Der Iplinkan- oder Lebung-Paa m
-* Unser Lager im Schnee
-* Die Schneelinie in 4870 Meter Höhe
+* [Aussätzige](ch013.xhtml#b124)
+* [Man Sing, der Aussätzige](ch013.xhtml#b126)
+* [Der Verfasser und seine zwei treuen Gefährten](ch013.xhtml#b128) (Separatbild)
+* [Der Jolinkan- oder Lebung-Paß](ch013.xhtml#b129)
+* [Unser Lager im Schnee](ch013.xhtml#b134)
+* [Die Schneelinie in 4870 Meter Höhe](ch013.xhtml#b137)
 * Der Mangschan-Gletscher
 * [Mein Nebelbild in einer Aureole](ch006.xhtml#b049a) Chromotafel nach Aquarell von H. S. Landor (Separatbild)
 * „Ich weckte den Rongba.‟
