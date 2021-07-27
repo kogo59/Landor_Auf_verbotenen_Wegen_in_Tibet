@@ -127,8 +127,8 @@ September 1898.
 * [Aufstieg zum Lumpiya-Paß](ch015.xhtml#b049b) (Separatbild)
 * [Mühseliger Aufstieg](ch015.xhtml#b154)
 * [Verdächtige Fußstapfen](ch015.xhtml#b156) (Separatbild)
-* Begrüßung des heiligen Berges Kelas (Separatbild)
-* Wilde Pferde
+* [Begrüßung des heiligen Berges Kelas](ch016.xhtml#b160) (Separatbild)
+* [Wilde Pferde](ch016.xhtml#b164)
 * Ankunft des Tarjum von Barka
 * Verhandlung mit dem Tarjum von Barka (Separatbild)
 * „Wie die Blinden gingen wir vorwärts“
