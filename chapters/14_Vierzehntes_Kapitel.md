@@ -134,7 +134,6 @@ vernichtet wurden.
 ![Wilde Pferde.](Auf_verbotenen_Wegen_in_Tibet_164.jpg "Wilde Pferde"){#b164}
 ::::
 
-
 Wir erstiegen wieder eine Hügelkette und kamen auf der andern Seite zu einer
 grasbedeckten Strecke ebenen Landes hinab, in deren nördlichem Theil eine
 Wasserfläche lag. Auf einem Hügel südlich vom See stand das Gyanema Char oder
@@ -143,7 +142,9 @@ ausgespannten Zelte, das als Dach diente; es trug eine Flaggenstange, an der
 zwei schmutzige weiße Lumpen flatterten. Es waren nicht die Fahnen der
 Tibetaner, sondern nur fliegende Gebete.
 
-Tiefer unten am Fuße des Hügels waren zwei oder drei große schwarze Zelte und eine kleine Steinhütte. Hunderte von schwarzen, weißen und braunen Yaks weideten auf der grünen Fläche.
+Tiefer unten am Fuße des Hügels waren zwei oder drei große schwarze Zelte und
+eine kleine Steinhütte. Hunderte von schwarzen, weißen und braunen Yaks weideten
+auf der grünen Fläche.
 
 Das Erscheinen unserer Gesellschaft erregte augenscheinlich Aufsehen. denn wir
 hatten uns kaum auf der Höhe des Passes gezeigt, als eine Trommel aus dem Fort

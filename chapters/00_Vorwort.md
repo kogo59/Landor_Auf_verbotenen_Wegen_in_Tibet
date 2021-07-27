@@ -129,8 +129,8 @@ September 1898.
 * [Verdächtige Fußstapfen](ch015.xhtml#b156) (Separatbild)
 * [Begrüßung des heiligen Berges Kelas](ch016.xhtml#b160) (Separatbild)
 * [Wilde Pferde](ch016.xhtml#b164)
-* Ankunft des Tarjum von Barka
-* Verhandlung mit dem Tarjum von Barka (Separatbild)
+* [Ankunft des Tarjum von Barka](ch017.xhtml#b172)
+* [Verhandlung mit dem Tarjum von Barka](ch017.xhtml#b178) (Separatbild)
 * „Wie die Blinden gingen wir vorwärts“
 * Eingeschneit!
 * Dakoit mit erbeuteter Schafherde
