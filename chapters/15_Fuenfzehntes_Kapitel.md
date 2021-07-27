@@ -206,5 +206,3 @@ gerathen hatte.
 ::::
 
 #### **Anmerkungen** {.break-before .unnumbered}
-
-[^1500]: [*Gangri-Kette*: vergleiche [Gangdisê](https://de.wikipedia.org/wiki/Gangdis%C3%AA)]{.footnote}
