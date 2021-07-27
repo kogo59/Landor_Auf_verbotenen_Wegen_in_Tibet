@@ -124,9 +124,9 @@ September 1898.
 * [Der Mangschan-Gletscher](ch014.xhtml#b144)
 * [Mein Nebelbild in einer Aureole](ch014.xhtml#b049a) Chromotafel nach Aquarell von H. S. Landor (Separatbild)
 * [„Ich weckte den Rongba.‟](ch014.xhtml#b149)
-* [Aufstieg zum Lumpiya-Paß](ch006.xhtml#b049b) (Separatbild)
-* Mühseliger Aufstieg
-* Verdächtige Fußstapfen Separatbild)
+* [Aufstieg zum Lumpiya-Paß](ch015.xhtml#b049b) (Separatbild)
+* [Mühseliger Aufstieg](ch015.xhtml#b154)
+* [Verdächtige Fußstapfen](ch015.xhtml#b156) (Separatbild)
 * Begrüßung des heiligen Berges Kelas (Separatbild)
 * Wilde Pferde
 * Ankunft des Tarjum von Barka

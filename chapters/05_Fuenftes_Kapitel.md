@@ -180,7 +180,7 @@ nicht offen, es ist noch sehr viel Schnee auf ihm. Dann hat auch der Jong Pen
 von Taklakot in Tibet, der für seinen vorjährigen Angriff auf Lieutenant Gaussen
 noch keine Strafe erhalten hat, jetzt eine starke Wache von 300 Mann aufgeboten,
 um das Betreten des Landes durch Fremde zu verhindern. Die Dakus oder Räuber,
-welche das Gebiet des Mansarovar-Sees heimsuchen, scheinen in diesem Jahre
+welche das Gebiet des Mansarowar-Sees heimsuchen, scheinen in diesem Jahre
 zahlreicher zu sein als je.“
 
 „Da gehe ich ja einer recht lebhaften Zeit entgegen“, dachte ich bei mir.
@@ -214,10 +214,6 @@ und ich muß gestehen, daß ich mir fast vermessen vorkam, als ich, nachdem ich
 meinen Malkasten abgeschnallt hatte, versuchte, auf dem Papier die Landschaft
 vor mir wiederzugeben. „Ich bin ein Thor“, sagte ich zu mir, „das malen zu
 wollen! Welcher Maler könnte diesen Bergen gerecht werden?“
-
-:::: {.wrap-100 .break-before }
-![Aufstieg zum Lumpiya-Paß.](Auf_verbotenen_Wegen_in_Tibet_049b.jpg "Aufstieg zum Lumpiya-Paß."){#b049b}
-::::
 
 :::: {.wrap-60 .break-before }
 ![Tibetanische Wahrsagerin](Auf_verbotenen_Wegen_in_Tibet_049c.jpg "Tibetanische Wahrsagerin."){#b049c}

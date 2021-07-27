@@ -7,7 +7,7 @@ ging, sah ich in einem niedrigen steinernen Schuppen neben dem Palast die große
 hagere Gestalt eines Mannes, der aus einer Rauchwolke herausragte.
 
 „Wer ist das?“ fragte ich meinen Begleiter. „Ein Fakir, der von einer
-Pilgerfahrt nach dem heiligen See Mansarovar^[^0300]^ in Tibet zurückkehrt. Während des
+Pilgerfahrt nach dem heiligen See Mansarowar^[^0300]^ in Tibet zurückkehrt. Während des
 Sommers kommen viele dieser Fanatiker auf ihren Wallfahrten hier durch.“
 
 :::: {.w-40 .float-left .break-before}
@@ -227,7 +227,7 @@ des Todes gerathen waren.
 
 #### **Anmerkungen** {.break-before .unnumbered}
 
-[^0300]: [*Mansarovar*: vergleiche [Manasarovar](https://de.wikipedia.org/wiki/Manasarovar)]{.footnote}
+[^0300]: [*Mansarowar*: vergleiche [Manasarovar](https://de.wikipedia.org/wiki/Manasarovar)]{.footnote}
 
 [^0301]: [*Gori*: vergleiche [Gori](https://de.wikipedia.org/wiki/Gori_(Mahakali))]{.footnote}
 
