@@ -135,11 +135,11 @@ September 1898.
 * [Eingeschneit!](ch019.xhtml#b198)
 * [Dakoit mit erbeuteter Schafherde](ch020.xhtml#b204)
 * [Im Schreckenslager](ch020.xhtml#b210)  (Separatbild)
-* Der heilige Berg Kelas
-* Daku
-* Tibetanisches Weib mit schwarzer Salbe beschmiert.
-* Teufelssee mit dem heiligen Berge Kelas
-* Rakastal- und Mansarowar-See
+* [Der heilige Berg Kelas](ch022.xhtml#b224)  (Separatbild)
+* [Daku](ch022.xhtml#b228)
+* [Tibetanisches Weib mit schwarzer Salbe beschmiert](ch022.xhtml#b229)
+* [Teufelssee mit dem heiligen Berge Kelas](ch022.xhtml#b230)
+* [Rakastal- und Mansarowar-See](ch022.xhtml#b231)
 * Plötzliche Unterwürfigkeit der Banditen (Separatbild)
 * Wollener Rock und Gürtel
 * Meine zwei schwarzen Yaks
