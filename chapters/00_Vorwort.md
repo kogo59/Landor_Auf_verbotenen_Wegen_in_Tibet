@@ -133,8 +133,8 @@ September 1898.
 * [Verhandlung mit dem Tarjum von Barka](ch017.xhtml#b178) (Separatbild)
 * [„Wie die Blinden gingen wir vorwärts“](ch019.xhtml#b193)
 * [Eingeschneit!](ch019.xhtml#b198)
-* Dakoit mit erbeuteter Schafherde
-* Im Schreckenslager  (Separatbild)
+* [Dakoit mit erbeuteter Schafherde](ch020.xhtml#b204)
+* [Im Schreckenslager](ch020.xhtml#b210)  (Separatbild)
 * Der heilige Berg Kelas
 * Daku
 * Tibetanisches Weib mit schwarzer Salbe beschmiert.
