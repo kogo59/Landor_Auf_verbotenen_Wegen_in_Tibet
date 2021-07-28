@@ -140,16 +140,16 @@ September 1898.
 * [Tibetanisches Weib mit schwarzer Salbe beschmiert](ch022.xhtml#b229)
 * [Teufelssee mit dem heiligen Berge Kelas](ch022.xhtml#b230)
 * [Rakastal- und Mansarowar-See](ch022.xhtml#b231)
-* Plötzliche Unterwürfigkeit der Banditen (Separatbild)
-* Wollener Rock und Gürtel
-* Meine zwei schwarzen Yaks
-* Tasche mit Stahl und Feuerstein
-* Gürtel mit verschiedenen Utensilien
-* Tibetanischer Hirte
-* Frauenstiefel
-* Stiefel aus Lhassa
-* Männerstiefel aus Schigatse
-* Schneestiefel
+* [Plötzliche Unterwürfigkeit der Banditen](ch023.xhtml#b234) (Separatbild)
+* [Wollener Rock und Gürtel](ch023.xhtml#b236)
+* [Meine zwei schwarzen Yaks](ch023.xhtml#b238)
+* [Tasche mit Stahl und Feuerstein](ch023.xhtml#b239a)
+* [Gürtel mit verschiedenen Utensilien](ch023.xhtml#b239b)
+* [Tibetanischer Hirte](ch023.xhtml#b240)
+* [Frauenstiefel](ch023.xhtml#b241a)
+* [Stiefel aus Lhassa](ch023.xhtml#b241a)
+* [Männerstiefel aus Schigatse.](ch023.xhtml#b241b)
+* [Schneestiefel](ch023.xhtml#b241b)
 * [Tibetanische Wahrsagerin](ch006.xhtml#b049c) Chromotafel nach Aquarell von H. S. Landor (Separatbild)
 * Silbermünzen aus  Lhasa
 * Tibetanische Kupfermünzen
