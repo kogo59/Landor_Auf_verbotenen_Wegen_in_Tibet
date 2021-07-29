@@ -162,10 +162,10 @@ September 1898.
 * [Töpfe vom Mansarowar-See](ch025.xhtml#b259)
 * [Lama-Kloster in Tucker](ch025.xhtml#b260) (Separatbild)
 * [Eingang in den Lama-Tempel von Tucker](ch025.xhtml#b261)
-* Lama
-* Junger Lama
-* Mani-Stein mit zweimaligem „Om mani padme hum“
-* Gebetsräder
+* [Lama](ch026.xhtml#b269)
+* [Junger Lama](ch026.xhtml#b270)
+* [Mani-Stein mit zweimaligem „Om mani padme hum“](ch026.xhtml#b272)
+* [Gebetsräder](ch026.xhtml#b272)
 * Der Wunderdoctor
 * Tscholden
 * Gomba von Pangba
