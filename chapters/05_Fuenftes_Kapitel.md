@@ -215,10 +215,6 @@ meinen Malkasten abgeschnallt hatte, versuchte, auf dem Papier die Landschaft
 vor mir wiederzugeben. „Ich bin ein Thor“, sagte ich zu mir, „das malen zu
 wollen! Welcher Maler könnte diesen Bergen gerecht werden?“
 
-:::: {.wrap-60 .break-before }
-![Tibetanische Wahrsagerin](Auf_verbotenen_Wegen_in_Tibet_049c.jpg "Tibetanische Wahrsagerin."){#b049c}
-::::
-
 Ich warf das Bild wie gewöhnlich schnell hin, aber niemals ist wol ein rasches
 Wagestück durch einen geringern Erfolg belohnt worden, und so blieben die ewigen
 Riesen ungemalt.

@@ -240,4 +240,4 @@ bestanden hat. Der tiefste Punkt in dieser Depression liegt mehr als 100 Meter
 
 #### **Anmerkungen** {.break-before .unnumbered}
 
-[^2000]: [*Rakastal*: vergleiche [Rakshastal](hhttps://de.wikipedia.org/wiki/Rakshastal)]{.footnote}
+[^2000]: [*Rakastal*: vergleiche [Rakshastal](https://de.wikipedia.org/wiki/Rakshastal)]{.footnote}

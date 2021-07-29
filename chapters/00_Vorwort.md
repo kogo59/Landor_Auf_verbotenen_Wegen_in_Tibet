@@ -69,19 +69,19 @@ September 1898.
 * [Der Rajiwar, sein Bruder und dessen Sohn](ch005.xhtml#b026)
 * [Fakir auf der Rückkehr vom Mansarowar-See](ch005.xhtml#b027)
 * [Der Rajiwar und sein Bruder in Dandies](ch005.xhtml#b031)
-* [Darma-Schokas und Tibetaner](ch005.xhtml#b035)
-* [Himalaja-Kette mit Nanda Devi und Trisul.](ch005.xhtml#b036) Chromotafel nach Aquarell von H. S. Landor (Separatbild)
-* [Der Lehrer von Pungo](ch005.xhtml#b039)
-* [Webendes Schoka-Weib](ch005.xhtml#b040)
-* [Grab und fliegende Gebete](ch006.xhtml#b043)
-* [Ein alter Schoka](ch006.xhtml#b048)
-* [Ein Zelt für einen „Sahib“](ch006.xhtml#b050)
+* [Darma-Schokas und Tibetaner](ch006.xhtml#b035)
+* [Himalaja-Kette mit Nanda Devi und Trisul.](ch006.xhtml#b036) Chromotafel nach Aquarell von H. S. Landor (Separatbild)
+* [Der Lehrer von Pungo](ch006.xhtml#b039)
+* [Webendes Schoka-Weib](ch006.xhtml#b040)
+* [Grab und fliegende Gebete](ch007.xhtml#b043)
+* [Ein alter Schoka](ch007.xhtml#b048)
+* [Ein Zelt für einen „Sahib“](ch007.xhtml#b050)
 * [Tokudar Lal Sing und sein Bruder](ch006.xhtml#b051)
-* [Der Nerpani-Pfad](ch007.xhtml#b054)
-* [Am Abgrund](ch007.xhtml#b055)
-* [Der Tschai-Lek-Paß](ch007.xhtml#b056)
-* [Der Nerpani-Pfad](ch007.xhtml#b057) Chromotafel nach Aquarell von H. S. Landor. (Separatbild)
-* [Schoka-Häuser](ch007.xhtml#b057a)
+* [Der Nerpani-Pfad](ch008.xhtml#b054)
+* [Am Abgrund](ch008.xhtml#b055)
+* [Der Tschai-Lek-Paß](ch008.xhtml#b056)
+* [Der Nerpani-Pfad](ch008.xhtml#b057) Chromotafel nach Aquarell von H. S. Landor. (Separatbild)
+* [Schoka-Häuser](ch008.xhtml#b057a)
 * [Mein Haus in Garbyan](ch009.xhtml#b067)
 * [Morgentoilette eines jungen Schoka](ch009.xhtml#b068)
 * [Haus eines vornehmen Schoka](ch009.xhtml#b068a)
@@ -150,18 +150,18 @@ September 1898.
 * [Stiefel aus Lhassa](ch023.xhtml#b241a)
 * [Männerstiefel aus Schigatse.](ch023.xhtml#b241b)
 * [Schneestiefel](ch023.xhtml#b241b)
-* [Tibetanische Wahrsagerin](ch006.xhtml#b049c) Chromotafel nach Aquarell von H. S. Landor (Separatbild)
-* Silbermünzen aus  Lhasa
-* Tibetanische Kupfermünzen
-* Tibetanische Ohrringe
-* Inneres eines Serai
-* Tibetanischer Ohrring
-* Ohrring eines hohen Beamten
-* Goldene Malachitbrosche
-* Silbernes Amulett
-* Töpfe vom Mansarowar-Seee
-* Lama-Kloster in Tucker (Separatbild)
-* Eingang in den Lama-Tempel von Tucker
+* [Tibetanische Wahrsagerin](ch025.xhtml#b049c) Chromotafel nach Aquarell von H. S. Landor (Separatbild)
+* [Silbermünzen aus  Lhassa](ch025.xhtml#b254a)
+* [Tibetanische Kupfermünzen](ch025.xhtml#b254b)
+* [Tibetanische Ohrringe](ch025.xhtml#b254c)
+* [Inneres eines Serai](ch025.xhtml#b255)
+* [Tibetanischer Ohrring](ch025.xhtml#b257a)
+* [Ohrring eines hohen Beamten](ch025.xhtml#b257b)
+* [Goldene Malachitbrosche](ch025.xhtml#b258a)
+* [Silbernes Amulett](ch025.xhtml#b258b)
+* [Töpfe vom Mansarowar-See](ch025.xhtml#b259)
+* [Lama-Kloster in Tucker](ch025.xhtml#b260) (Separatbild)
+* [Eingang in den Lama-Tempel von Tucker](ch025.xhtml#b261)
 * Lama
 * Junger Lama
 * Mani-Stein mit zweimaligem „Om mani padme hum“
