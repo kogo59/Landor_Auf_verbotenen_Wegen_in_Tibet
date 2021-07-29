@@ -166,7 +166,7 @@ September 1898.
 * [Junger Lama](ch026.xhtml#b270)
 * [Mani-Stein mit zweimaligem „Om mani padme hum“](ch026.xhtml#b272)
 * [Gebetsräder](ch026.xhtml#b272)
-* Der Wunderdoctor
+* [Der Wunderdoctor](ch027.xhtml#b285)
 * Tscholden
 * Gomba von Pangba
 * Eine natürliche Festung (Separatbild)
