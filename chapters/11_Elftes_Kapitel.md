@@ -217,7 +217,7 @@ Trotz unsers nicht beneidenswerthen Zustandes, mit blutenden Füßen inmitten
 einer traurigen Oede, wurden meine Leute, die erst mürrisch gewesen waren, als
 ihnen ihr Wunsch abgeschlagen wurde, ganz gutmüthig und lustig, als ich sie mit
 ihren augenblicklichen Mühsalen neckte und sie sahen, daß es mir nicht besser
-ging. Als wir nach endlosem Reiben in unsere Gliedmaßen etwas Blutceirculation
+ging. Als wir nach endlosem Reiben in unsere Gliedmaßen etwas Blutcirculation
 gebracht hatten, schickten wir uns an, die nächsten sechs Arme des Deltas zu
 überschreiten. Nach mehr als einstündiger Anstrengung konnten wir endlich unsere
 Fußbekleidung anziehen und empfanden dabei die wohlthuende Befriedigung, die aus

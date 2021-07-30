@@ -167,17 +167,18 @@ September 1898.
 * [Mani-Stein mit zweimaligem „Om mani padme hum“](ch026.xhtml#b272)
 * [Gebetsräder](ch026.xhtml#b272)
 * [Der Wunderdoctor](ch027.xhtml#b285)
-* Tscholden
-* Gomba von Pangba
+* [Tschokden](ch028.xhtml#b288)
+* [Gomba von Pangba](ch028.xhtml#b290)
 * Eine natürliche Festung (Separatbild)
-* Schleuder
-* Tibetanisches Zelt
-* Junger Tibetaner
-* Tibetanische Schwerter
-* Tibetanischer Sattler
-* Sattel
-* Doppelsack
-* Meine Packsättel für Yaks
+* [Schleuder](ch028.xhtml#b292)
+* [Tibetanisches Zelt](ch028.xhtml#b293)
+* [Junger Tibetaner](ch028.xhtml#b295)
+* [Amulettkapsel](ch028.xhtml#b296)
+* [Tibetanische Schwerter](ch028.xhtml#b297)
+* [Tibetanischer Sattler](ch028.xhtml#b298)
+* [Sattel](ch028.xhtml#b299)
+* [Doppelsack](ch028.xhtml#b300)
+* [Meine Packsättel für Yaks](ch028.xhtml#b301)
 * Unser Lager im Schutze einer Felswand mit der Inschrift: „Om mani padme hum“ (Separatbild)
 * Yak mit wissenschaftlichen Instrumenten.
 * Mit nur zwei Mann unterwegs
