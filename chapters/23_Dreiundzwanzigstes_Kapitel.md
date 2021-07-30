@@ -1,4 +1,4 @@
-# Dreiundwanzigstes Kapitel.<br />**In der Lamaserei.** {#dreiundzwanzig .unnumbered}
+# Dreiundzwanzigstes Kapitel.<br />**In der Lamaserei.** {#dreiundzwanzig .unnumbered}
 
 ::: justified
 

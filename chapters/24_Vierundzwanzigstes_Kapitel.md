@@ -1,4 +1,4 @@
-# Vierundwanzigstes Kapitel.<br />**Die Lamas.** {#vierundzwanzig .unnumbered}
+# Vierundzwanzigstes Kapitel.<br />**Die Lamas.** {#vierundzwanzig .unnumbered}
 
 ::: justified
 

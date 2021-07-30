@@ -1,4 +1,4 @@
-# Fünfundwanzigstes Kapitel.<br />**Tibetanische Heilkunst.** {#fuenfundzwanzig .unnumbered}
+# Fünfundzwanzigstes Kapitel.<br />**Tibetanische Heilkunst.** {#fuenfundzwanzig .unnumbered}
 
 ::: justified
 

@@ -1,4 +1,4 @@
-# Zweiundwanzigstes Kapitel.<br />**Am Mansarowar-See.** {#zweiundzwanzig .unnumbered}
+# Zweiundzwanzigstes Kapitel.<br />**Am Mansarowar-See.** {#zweiundzwanzig .unnumbered}
 
 ::: justified
 

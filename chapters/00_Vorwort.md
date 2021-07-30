@@ -179,11 +179,11 @@ September 1898.
 * [Sattel](ch028.xhtml#b299)
 * [Doppelsack](ch028.xhtml#b300)
 * [Meine Packsättel für Yaks](ch028.xhtml#b301)
-* Unser Lager im Schutze einer Felswand mit der Inschrift: „Om mani padme hum“ (Separatbild)
-* Yak mit wissenschaftlichen Instrumenten.
-* Mit nur zwei Mann unterwegs
-* Kata
-* In strömendem Regen
+* [Unser Lager im Schutze einer Felswand mit der Inschrift: „Om mani padme hum“](ch029.xhtml#b305) (Separatbild)
+* [Yak mit wissenschaftlichen Instrumenten](ch029.xhtml#b306)
+* [Mit nur zwei Mann unterwegs](ch029.xhtml#b308)
+* [Kata](ch029.xhtml#b310)
+* [In strömendem Regen](ch029.xhtml#b311)
 * Tibetanischer Räuber
 * Geisterhafte Besucher
 * Tibetanische Luntenflinten

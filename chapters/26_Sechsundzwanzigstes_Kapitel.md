@@ -338,7 +338,7 @@ zwingen den Reiter, mit gekrümmten Beinen zu sitzen, was, wenn man sich daran
 gewöhnt hat, eine nicht unbequeme Stellung ist.
 
 :::: {.w-30 .float-right .break-before }
-![Meine Packsättel für Yaks.](Auf_verbotenen_Wegen_in_Tibet_301.jpg "Meine Packsättel für Yaks"){#b301}
+![Meine Packsättel für Yaks.](Auf_verbotenen_Wegen_in_Tibet_301.jpg "Meine Packsättel für Yaks."){#b301}
 ::::
 
 Ein ledernes Bruststück, ein Schwanzriemen, Zügel und Gebiß, alles in derselben
@@ -359,8 +359,6 @@ diese anscheinend grausamen Lasten sehr selten auch nur die kleinste Verletzung
 erleidet.
 
 :::
-
-
 
 :::: align-center
 ****
