@@ -286,8 +286,6 @@ Dann beluden wir unsere Yaks und zogen weiter, als ob nichts vorgefallen wäre.
 
 :::
 
-
-
 :::: align-center
 ****
 ::::

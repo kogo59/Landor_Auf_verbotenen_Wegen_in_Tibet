@@ -184,14 +184,14 @@ September 1898.
 * [Mit nur zwei Mann unterwegs](ch029.xhtml#b308)
 * [Kata](ch029.xhtml#b310)
 * [In strömendem Regen](ch029.xhtml#b311)
-* Tibetanischer Räuber
-* Geisterhafte Besucher
-* Tibetanische Luntenflinten
-* „Ich bin nur ein Abgesandter“
-* Der Gunkyo-See (Separatbild)
-* Obo
-* Flatternde Gebete auf dem Maium-Paß. Chromotafel nach Aquarell von H. S. Landor (Separatbild)
-* Landor's Quelle des Brahmaputra
+* [Tibetanischer Räuber](ch030.xhtml#b318)
+* [Geisterhafte Besucher](ch030.xhtml#b322)
+* [Tibetanische Luntenflinten](ch030.xhtml#b324)
+* [„Ich bin nur ein Abgesandter“](ch030.xhtml#b325)
+* [Der Gunkyo-See](ch031.xhtml#b329) (Separatbild)
+* [Obo](ch031.xhtml#b331)
+* [Flatternde Gebete auf dem Maium-Paß](ch031.xhtml#b331) Chromotafel nach Aquarell von H. S. Landor (Separatbild)
+* [Landor's Quelle des Brahmaputra](ch031.xhtml#b334)
 * Tibetanischer Hund
 * Straße nach Lhassa. (Separatbild)
 * Luftspiegelung
