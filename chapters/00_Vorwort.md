@@ -192,17 +192,17 @@ September 1898.
 * [Obo](ch031.xhtml#b331)
 * [Flatternde Gebete auf dem Maium-Paß](ch031.xhtml#b331) Chromotafel nach Aquarell von H. S. Landor (Separatbild)
 * [Landor's Quelle des Brahmaputra](ch031.xhtml#b334)
-* Tibetanischer Hund
-* Straße nach Lhassa. (Separatbild)
-* Luftspiegelung
-* Schwarzes Zelt
-* Im Innern eines tibetanischen Zelt
-* Tongbo
-* Tongbo, auseinandergenommen
-* Zeltaltar
-* Tibetanische Weiber und Kinder (Separatbild)
-* Tibetanerin mit Tschukti
-* Frau aus Lhassa
+* [Tibetanischer Hund](ch032.xhtml#b339)
+* [Straße nach Lhassa](ch032.xhtml#b340) (Separatbild)
+* [Luftspiegelung](ch032.xhtml#b341)
+* [Schwarzes Zelt](ch033.xhtml#b344)
+* [Im Innern eines tibetanischen Zelt](ch033.xhtml#b345)
+* [Tongbo](ch033.xhtml#b347)
+* [Tongbo, auseinandergenommen](ch033.xhtml#b348)
+* [Zeltaltar](ch033.xhtml#b349)
+* [Tibetanische Weiber und Kinder](ch033.xhtml#b351) (Separatbild)
+* [Tibetanerin mit Tschukti](ch033.xhtml#b352)
+* [Frau aus Lhassa](ch033.xhtml#b353)
 * Tibetanerin mit Kind
 * Tibetanische Kinder (Separatbild)
 * Die Witwe aus Taklakot
