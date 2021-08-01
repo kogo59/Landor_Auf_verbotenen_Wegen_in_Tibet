@@ -219,10 +219,11 @@ September 1898.
 * [Wir werden zum Verhör geschleppt](ch037.xhtml#b390)  (Separatbild)
 * [Durchsuchung meiner Habe](ch037.xhtml#b391)
 * [Das Zelt des Pombo](ch037.xhtml#b393)
-* Der Pombo
-* Tschanden Sing wird von den Lamas gepeitscht  (Separatbild)
-* Tibetanischer Soldat
-* Tibetanischer Soldat
+* [Der Pombo](ch038.xhtml#b396)
+* [Tschanden Sing wird von den Lamas gepeitscht](ch038.xhtml#b397)  (Separatbild)
+* [Tibetanischer Soldat](ch038.xhtml#b398)
+* [Tibetanischer Soldat](ch038.xhtml#b399)
+* [Offizier](ch038.xhtml#b401)
 * „Beide Beine werden dir gebrochen werden“
 * Handschellen
 * Hängeschloß und Schlüssel
