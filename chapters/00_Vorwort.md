@@ -203,14 +203,14 @@ September 1898.
 * [Tibetanische Weiber und Kinder](ch033.xhtml#b351) (Separatbild)
 * [Tibetanerin mit Tschukti](ch033.xhtml#b352)
 * [Frau aus Lhassa](ch033.xhtml#b353)
-* Tibetanerin mit Kind
-* Tibetanische Kinder (Separatbild)
-* Die Witwe aus Taklakot
-* Becher aus einem Menschenschädeln.
-* „Und ich gebe dir dies, damit du zurückgehst“
-* Lastziege
-* Die Yaks in Schlammlöchern
-* Alte Tibetanerin
+* [Tibetanerin mit Kind](ch034.xhtml#b359)
+* [Tibetanische Kinder](ch034.xhtml#b360) (Separatbild)
+* [Die Witwe aus Taklakot](ch034.xhtml#b361)
+* [Becher aus einem Menschenschädel](ch034.xhtml#b363)
+* [„Und ich gebe dir dies, damit du zurückgehst.“](ch035.xhtml#b366)
+* [Lastziege](ch035.xhtml#b369)
+* [Die Yaks in Schlammlöchern.](ch035.xhtml#b371)
+* [Alte Tibetanerin](ch035.xhtml#b373)
 * Versuch der Rettung meines Yaks
 * Eine gründliche Labung
 * Tibetanisches Wachthaus
