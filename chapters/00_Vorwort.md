@@ -215,10 +215,10 @@ September 1898.
 * [Eine gründliche Labung](ch036.xhtml#b381)
 * [Tibetanisches Wachthaus](ch036.xhtml#b383)
 * [Der verhängnißvolle Pferdekauf](ch036.xhtml#b384)  (Separatbild)
-* Gefangen!
-* Wir werden zum Verhör geschleppt  (Separatbild)
-* Durchsuchung meiner Habe
-* Das Zelt des Pombo
+* [Gefangen!](ch037.xhtml#b387)
+* [Wir werden zum Verhör geschleppt](ch037.xhtml#b390)  (Separatbild)
+* [Durchsuchung meiner Habe](ch037.xhtml#b391)
+* [Das Zelt des Pombo](ch037.xhtml#b393)
 * Der Pombo
 * Tschanden Sing wird von den Lamas gepeitscht  (Separatbild)
 * Tibetanischer Soldat
