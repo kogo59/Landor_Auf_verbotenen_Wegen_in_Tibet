@@ -211,10 +211,10 @@ September 1898.
 * [Lastziege](ch035.xhtml#b369)
 * [Die Yaks in Schlammlöchern.](ch035.xhtml#b371)
 * [Alte Tibetanerin](ch035.xhtml#b373)
-* Versuch der Rettung meines Yaks
-* Eine gründliche Labung
-* Tibetanisches Wachthaus
-* Der verhängnißvolle Pferdekauf  (Separatbild)
+* [Versuch der Rettung meines Yaks](ch036.xhtml#b377)
+* [Eine gründliche Labung](ch036.xhtml#b381)
+* [Tibetanisches Wachthaus](ch036.xhtml#b383)
+* [Der verhängnißvolle Pferdekauf](ch036.xhtml#b384)  (Separatbild)
 * Gefangen!
 * Wir werden zum Verhör geschleppt  (Separatbild)
 * Durchsuchung meiner Habe
