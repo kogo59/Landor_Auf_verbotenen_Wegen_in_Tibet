@@ -224,9 +224,9 @@ September 1898.
 * [Tibetanischer Soldat](ch038.xhtml#b398)
 * [Tibetanischer Soldat](ch038.xhtml#b399)
 * [Offizier](ch038.xhtml#b401)
-* „Beide Beine werden dir gebrochen werden“
-* Handschellen
-* Hängeschloß und Schlüssel
+* [„Beide Beine werden dir gebrochen werden.“](ch039.xhtml#b409)
+* [Handschellen](ch039.xhtml#b410)
+* [Hängeschloß und Schlüssel](ch039.xhtml#b411)
 * Mein Versuch, zu Tschanden Sing zu gelangen
 * Sattel mit Stacheln
 * Tibetanischer Fahnenträger
