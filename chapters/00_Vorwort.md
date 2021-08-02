@@ -227,12 +227,12 @@ September 1898.
 * [„Beide Beine werden dir gebrochen werden.“](ch039.xhtml#b409)
 * [Handschellen](ch039.xhtml#b410)
 * [Hängeschloß und Schlüssel](ch039.xhtml#b411)
-* Mein Versuch, zu Tschanden Sing zu gelangen
-* Sattel mit Stacheln
-* Tibetanischer Fahnenträger
-* Nerba´s Mordanschlag
-* Grausamer Sport meiner Wache (Separatbild)
-* Mein Rock mit den Spuren der Stacheln des Sattel
+* [Mein Versuch, zu Tschanden Sing zu gelangen](ch040.xhtml#b414)
+* [Sattel mit Stacheln](ch040.xhtml#b415)
+* [Tibetanischer Fahnenträger](ch040.xhtml#b417)
+* [Nerba´s Mordanschlag](ch040.xhtml#b418)
+* [Grausamer Sport meiner Wache](ch040.xhtml#b419) (Separatbild)
+* [Mein Rock mit den Spuren der Stacheln des Sattel](ch040.xhtml#b420)
 * Die Lamas mit den Folterwerkzeugen
 * Die Musikanten
 * Das Taram
