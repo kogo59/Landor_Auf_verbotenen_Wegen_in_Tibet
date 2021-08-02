@@ -233,11 +233,11 @@ September 1898.
 * [Nerba´s Mordanschlag](ch040.xhtml#b418)
 * [Grausamer Sport meiner Wache](ch040.xhtml#b419) (Separatbild)
 * [Mein Rock mit den Spuren der Stacheln des Sattel](ch040.xhtml#b420)
-* Die Lamas mit den Folterwerkzeugen
-* Die Musikanten
-* Das Taram
-* Die Folter mit dem glühenden Eisen. Chromotafel nach Aquarell von H. S. Landor (Separatbild)
-* Ein grausames Spiel
+* [Die Lamas mit den Folterwerkzeugen](ch041.xhtml#b422)
+* [Die Musikanten](ch041.xhtml#b423)
+* [Das Taram](ch041.xhtml#b424)
+* [Die Folter mit dem glühenden Eisen.](ch041.xhtml#b425) Chromotafel nach Aquarell von H. S. Landor (Separatbild)
+* [Ein grausames Spiel](ch041.xhtml#b427)
 * In der Streckfolter
 * Der tanzende Pombo
 * Finale des Tanzes
