@@ -238,7 +238,7 @@ September 1898.
 * [Das Taram](ch041.xhtml#b424)
 * [Die Folter mit dem glühenden Eisen.](ch041.xhtml#b425) Chromotafel nach Aquarell von H. S. Landor (Separatbild)
 * [Ein grausames Spiel](ch041.xhtml#b427)
-* In der Streckfolter
+* [In der Streckfolter](ch042.xhtml#b427)
 * Der tanzende Pombo
 * Finale des Tanzes
 * Tschanden Sing gefesselt (Separatbild)
