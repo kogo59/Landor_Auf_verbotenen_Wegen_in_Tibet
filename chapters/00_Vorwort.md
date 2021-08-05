@@ -252,18 +252,18 @@ September 1898.
 * [Das Höhlendorf Dagmar](ch045.xhtml#b466) (Separatbild)
 * [Tschokden bei Taklakot](ch045.xhtml#b469)
 * Die Festung Taklakot. Chromotafel nach Aquarell von H. S. Landor. (s. Einbanddeckel)
-* Peschtar Charak Sing
-* Dr. H. Wilson
-* Der Tarjum von Toktschim. Chromotafel nach Aquarell von H. S. Landor.  (Separatbild)
-* Pundit Gobari
-* Meine Füße
-* Tschanden Sing's Beine
-* Dorf Tinker (Separatbild)
-* Palast des Rajiwar in Askot
-* J. Larkin
-* Die Schokas auf der Flucht
-* Mein Bad in 5000 Meter Höhe
-* Der Unglücksprophet
+* [Peschtar Charak Sing](ch046.xhtml#b472)
+* [Dr. H. Wilson](ch046.xhtml#b473)
+* [Der Tarjum von Toktschim](ch046.xhtml#b474) Chromotafel nach Aquarell von H. S. Landor.  (Separatbild)
+* [Pundit Gobari](ch046.xhtml#b475)
+* [Meine Füße](ch046.xhtml#b476)
+* [Tschanden Sing's Beine](ch046.xhtml#b477)
+* [Dorf Tinker](ch046.xhtml#b479) (Separatbild)
+* [Palast des Rajiwar in Askot](ch046.xhtml#b478)
+* [J. Larkin](ch046.xhtml#b480)
+* [Die Schokas auf der Flucht](ch046.xhtml#b480a)
+* [Mein Bad in 5000 Meter Höhe](ch046.xhtml#b481)
+* [Der Unglücksprophet](ch046.xhtml#b482)
 
 ## Karte
 * Südwestliches Tibet nach eigenen Aufnahmen von H. S. Landor, 1897. Maßstab 1&nbsp;:&nbsp;1&nbsp;000&nbsp;000.
