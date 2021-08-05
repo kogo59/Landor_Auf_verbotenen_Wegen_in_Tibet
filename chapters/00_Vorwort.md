@@ -245,12 +245,12 @@ September 1898.
 * [Reiter aus unserer Eskorte](ch044.xhtml#b451)
 * [Mit meinem Blute gezeichnete Kartenskizze](ch044.xhtml#b451)
 * [Soldat, eine Ziege durch Ersticken tödtend](ch044.xhtml#b455)
-* Bettelmusikanten
-* Ein Unglücksbote
-* Unser plötzlicher Angriff auf die tibetanische Wache  (Separatbild)
-* Lapsang und der Privatsekretär des Jong Pen
-* Das Höhlendorf Dagmarr (Separatbild)
-* Tschokden bei Taklakot
+* [Bettelmusikanten](ch045.xhtml#b460)
+* [Ein Unglücksbote](ch045.xhtml#b463)
+* [Unser plötzlicher Angriff auf die tibetanische Wache](ch045.xhtml#b464)  (Separatbild)
+* [Lapsang und der Privatsekretär des Jong Pen](ch045.xhtml#b464)
+* [Das Höhlendorf Dagmar](ch045.xhtml#b466) (Separatbild)
+* [Tschokden bei Taklakot](ch045.xhtml#b469)
 * Die Festung Taklakot. Chromotafel nach Aquarell von H. S. Landor. (s. Einbanddeckel)
 * Peschtar Charak Sing
 * Dr. H. Wilson
