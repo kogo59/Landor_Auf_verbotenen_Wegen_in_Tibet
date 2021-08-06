@@ -266,5 +266,5 @@ September 1898.
 * [Der Unglücksprophet](ch046.xhtml#b482)
 
 ## Karte
-* Südwestliches Tibet nach eigenen Aufnahmen von H. S. Landor, 1897. Maßstab 1&nbsp;:&nbsp;1&nbsp;000&nbsp;000.
-* Mit einer Nebenkarte: Uebersichtskarte zu H. S. Landor's Reise. Maßstab 1&nbsp;:&nbsp;12&nbsp;500&nbsp;000.
+* [Südwestliches Tibet nach eigenen Aufnahmen von H. S. Landor, 1897. Maßstab 1&nbsp;:&nbsp;1&nbsp;000&nbsp;000.](ch047.xhtml#karte)
+* [Mit einer Nebenkarte: Uebersichtskarte zu H. S. Landor's Reise. Maßstab 1&nbsp;:&nbsp;12&nbsp;500&nbsp;000.](ch047.xhtml#karte)
