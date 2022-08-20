@@ -21,3 +21,6 @@ before January 1, 1925.
 
 # Sources
 Auf verbotenen Wegen in Tibet. [archive.org](https://archive.org/details/82331landorarnoldhenrysavage186519241898aufverb)
+
+# ePUB
+Auf verbotenen Wegen in Tibet. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=341053)
