@@ -235,6 +235,6 @@ wohl bewußt, aber dies machte uns die Reise nur um so interessanter.
 
 [^2901]: [Steinhaufen, Steinpyramide als Zeichen der Verehrung für die Götter. Jeder Vorübergehende legt einen oder mehrere Steine dazu.]{.footnote}
 
-[^2902]: [*Nari-Chorsum*: vergleiche [Ngari](hhttps://de.wikipedia.org/wiki/Ngari)]{.footnote}
+[^2902]: [*Nari-Chorsum*: vergleiche [Ngari](https://de.wikipedia.org/wiki/Ngari)]{.footnote}
 
 [^2903]: [Die andere Quelle besuchte ich auf meiner Rückreise.]{.footnote}

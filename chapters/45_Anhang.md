@@ -754,11 +754,9 @@ Ihr ergebener<br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />Druck von F. A. Brockhaus in Leipzig.
 ::::
 
-
 :::: {.wrap-100 .break-before  }
-![](Auf_verbotenen_Wegen_in_Tibet_Karte.jpg "Der Unglücksprophet." ){#karte}
+![&nbsp;](Auf_verbotenen_Wegen_in_Tibet_Karte.jpg ""){#karte1}
 ::::
-
 
 
 #### **Anmerkungen** {.break-before .unnumbered}

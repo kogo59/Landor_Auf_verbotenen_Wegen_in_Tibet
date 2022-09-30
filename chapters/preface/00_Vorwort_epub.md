@@ -1,6 +1,5 @@
 # **Vorwort.** {#null .unnumbered}
 
-
 ::: justified
 **I**n diesem Buche habe ich den Bericht über eine Reise nach Tibet
 niedergelegt, die von mir während des Frühjahrs, Sommers und Herbstes 1897
@@ -76,7 +75,7 @@ September 1898.
 * [Grab und fliegende Gebete](ch007.xhtml#b043)
 * [Ein alter Schoka](ch007.xhtml#b048)
 * [Ein Zelt für einen „Sahib“](ch007.xhtml#b050)
-* [Tokudar Lal Sing und sein Bruder](ch006.xhtml#b051)
+* [Tokudar Lal Sing und sein Bruder](ch007.xhtml#b051)
 * [Der Nerpani-Pfad](ch008.xhtml#b054)
 * [Am Abgrund](ch008.xhtml#b055)
 * [Der Tschai-Lek-Paß](ch008.xhtml#b056)
@@ -266,5 +265,5 @@ September 1898.
 * [Der Unglücksprophet](ch046.xhtml#b482)
 
 ## Karte
-* [Südwestliches Tibet nach eigenen Aufnahmen von H. S. Landor, 1897. Maßstab 1&nbsp;:&nbsp;1&nbsp;000&nbsp;000.](ch047.xhtml#karte)
-* [Mit einer Nebenkarte: Uebersichtskarte zu H. S. Landor's Reise. Maßstab 1&nbsp;:&nbsp;12&nbsp;500&nbsp;000.](ch047.xhtml#karte)
+* [Südwestliches Tibet nach eigenen Aufnahmen von H. S. Landor, 1897. Maßstab 1&nbsp;:&nbsp;1&nbsp;000&nbsp;000.](ch047.xhtml#karte1)
+* [Mit einer Nebenkarte: Uebersichtskarte zu H. S. Landor's Reise. Maßstab 1&nbsp;:&nbsp;12&nbsp;500&nbsp;000.](ch047.xhtml#karte1)
