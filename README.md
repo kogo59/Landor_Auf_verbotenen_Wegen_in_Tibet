@@ -1,5 +1,7 @@
 # Auf verbotenen Wegen in Tibet.
 
+<img align="right" height="150" src="https://user-images.githubusercontent.com/13177792/193353519-f5e8b602-04b7-4dc9-8c30-cfa1832ad1bb.jpg">
+
 This is a git repository of the source files for the book
 "Auf verbotenen Wegen in Tibet."
 
