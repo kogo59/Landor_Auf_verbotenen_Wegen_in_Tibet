@@ -130,7 +130,7 @@ das beste Mittel hielt, sie zu erschrecken und an Gewaltthätigkeiten zu
 verhindern, theils weil das mir vorgelegte Programm so reichhaltig schien, daß
 ich glaubte, es könne damit nur beabsichtigt sein, mich einzuschüchtern.
 
-:::: {.wrap-80 .break-before  }
+:::: {.wrap-80     }
 ![„Beide Beine werden dir gebrochen werden.“](Auf_verbotenen_Wegen_in_Tibet_409.jpg "„Beide Beine werden dir gebrochen werden.“"){#b409}
 ::::
 
@@ -154,7 +154,7 @@ Beleidigungen des Pöbels, der durch die Thür guckte, nicht beachtete. Mit
 lächelndem Gesicht kam jetzt ein Lama herein und sagte, er habe mir gute
 Nachrichten zu bringen.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Handschellen.](Auf_verbotenen_Wegen_in_Tibet_410.jpg "Handschellen." ){#b410}
 ::::
 
@@ -224,11 +224,6 @@ in der Richtung nach Lhassa davonritt.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3700]: [Die Tibetaner glauben, daß bei Männern der linke, bei Frauen der rechte Arm Gott gehöre. Sie betrachten die Arme als heilig, weil mit ihnen die Nahrung zum Munde geführt und dadurch dem Körper Leben gegeben wird, und auch, weil man sich mit den Armen gegen seine Feinde vertheidigen kann. Auch das Nasenbein wird als heilig angesehen.]{.footnote}
 

@@ -20,7 +20,7 @@ und ernst und unter den Lasten keuchend mühsam höher und höher klomm, bot nic
 nur ein malerisches Bild, sondern ließ auch die Schwierigkeiten des Weges
 erkennen.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Aufstieg zum Lumpiya-Paß.](Auf_verbotenen_Wegen_in_Tibet_049b.jpg "Aufstieg zum Lumpiya-Paß."){#b049b}
 ::::
 
@@ -64,7 +64,7 @@ viele Kilometer weit hinzog und einem gigantischen Eisenbahndamm glich. Aus
 weiter Ferne blickte im Norden eine Kette von hohen blauen Bergen mit
 Schneekuppen herüber, ohne Zweifel die Gangri-Kette mit den Kelas-Gipfeln.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Mühseliger Aufstieg.](Auf_verbotenen_Wegen_in_Tibet_154.jpg "Mühseliger Aufstieg."){#b154}
 ::::
 
@@ -134,7 +134,7 @@ Tibetaner herrührten. Wo die Fußstapfen aufhörten, zeigten Abdrücke im Schne
 daß sich der Mann an verschiedenen Stellen platt auf den Boden gelegt hatte.
 Ohne Zweifel hatte man uns nachspionirt und uns beobachtet.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Verdächtige Fußstapfen.](Auf_verbotenen_Wegen_in_Tibet_156.jpg "Verdächtige Fußstapfen."){#b156}
 ::::
 
@@ -220,10 +220,5 @@ Befehl, das Lager augenblicklich abzubrechen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1300]: [*Kelas*: vergleiche [Kailash](https://de.wikipedia.org/wiki/Kailash)]{.footnote}

@@ -98,7 +98,7 @@ ein und rief dann den Doctor, dem ich erzählte, was geschehen war. Ich selbst
 wollte noch so viel höher vordringen, als ich aushalten würde. Der Rongba war
 jetzt der einzige der Gesellschaft, der fähig war, sich aufrecht zu halten.
 
-:::: {.wrap-60 .break-before }
+:::: {.wrap-60    }
 ![Der Mangschan-Gletscher.](Auf_verbotenen_Wegen_in_Tibet_144.jpg "Der Mangschan-Gletscher."){#b144}
 ::::
 
@@ -147,7 +147,7 @@ dann mit innerlichem Lächeln über mein Thun, denn es machte mir Spaß, mein
 Nebelbild mich nachäffen zu sehen. Ich kam mir vor wie ein Kind, das zum ersten
 mal vor einem Spiegel steht.
 
-:::: {.wrap-60 .break-before }
+:::: {.wrap-60    }
 ![Mein Nebelbild in einer Aureole.](Auf_verbotenen_Wegen_in_Tibet_049a.jpg "Mein Nebelbild in einer Aureole."){#b049a}
 ::::
 
@@ -248,7 +248,7 @@ einen dichten Nebel eingehüllt, der uns bis auf die Haut drang.
 
 Durch die Rufe des Doctors geleitet, dessen Stimme wir nun erkannten, setzten wir unsern halsbrecherischen Abstieg fort. Die Rufe wurden immer deutlicher, und endlich fanden wir uns zu meiner größten Freude Wilson gegenüber, der, dem Himmel sei Dank, noch am Leben, aber fast hülflos war, da seine Beine, wie er sagte, noch wie Blei waren und er sie kaum bewegen konnte.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![„Ich weckte den Rongba.‟](Auf_verbotenen_Wegen_in_Tibet_149.jpg "„Ich weckte den Rongba.‟"){#b149}
 ::::
 
@@ -281,10 +281,5 @@ Steinsäulen und Pyramiden mit weißen Steinen und die üblichen fliegenden Gebe
 aus Zeug daran. An diesem Punkte beginnt der Aufstieg zum Lumpiya-Paß.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1200]: [siehe den Brief von Dr. Wilson im Anhang.]{.footnote}

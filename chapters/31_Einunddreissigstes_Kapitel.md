@@ -36,7 +36,7 @@ Stangen, gewöhnlich vier, mit weißen fliegenden Gebeten sind vor jedem Zelte z
 sehen, oder auch in jeder Himmelsgegend eine, wobei der Osten als Ausgangspunkt
 genommen wird.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Schwarzes Zelt.](Auf_verbotenen_Wegen_in_Tibet_344.jpg "Schwarzes Zelt."){#b344}
 ::::
 
@@ -47,11 +47,11 @@ mit der Zeit als Brennmaterial verwendet wird. Zum Betreten des Zeltes sind zwei
 Oeffnungen vorhanden, an jedem Ende eine; doch wird die gegen den Wind
 gerichtete immer vermittelst Oesen und hölzerner Riegel verschlossen gehalten.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Im Innern eines tibetanischen Zelt.](Auf_verbotenen_Wegen_in_Tibet_345.jpg "Im Innern eines tibetanischen Zelt."){#b345}
 ::::
 
-:::: {.w-30 .break-before .float-right }
+:::: {.w-30    .float-right }
 ![Tongbo.](Auf_verbotenen_Wegen_in_Tibet_347.jpg "Tongbo."){#b347}
 ::::
 
@@ -75,7 +75,7 @@ hölzernes Butterfaß mit einem Deckel, durch den ein Stempel geht. Man gebrauch
 es, um darin den Thee mit Butter und Salz in derselben Weise zu vermischen, die
 ich als bei den Schokas üblich schon weiter oben beschrieben habe.
 
-:::: {.w-40 .break-before .float-left }
+:::: {.w-40    .float-left }
 ![Tongbo, auseinandergenommen.](Auf_verbotenen_Wegen_in_Tibet_348.jpg "Tongbo, auseinandergenommen."){#b348}
 ::::
 
@@ -109,7 +109,7 @@ Dongmo oder Buttertöpfe. Zwischen Massen von Schaffellen und Decken sieht man
 auch die kleinen hölzernen Kästen, in denen der Vorrath an Butter unter Schloß
 und Riegel gehalten wird.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Zeltaltar.](Auf_verbotenen_Wegen_in_Tibet_349.jpg "Zeltaltar."){#b349}
 ::::
 
@@ -155,7 +155,7 @@ Winde verhüten soll, und bei dem unangenehmen Geruch, der den nie gewechselten
 Kleidern entströmt, bleibt wirklich wenig übrig, was die tibetanische Frau
 anziehend machen könnte.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Tibetanische Weiber und Kinder.](Auf_verbotenen_Wegen_in_Tibet_351.jpg "Tibetanische Weiber und Kinder."){#b351}
 ::::
 
@@ -183,7 +183,7 @@ freundlich waren, schienen die Frauen viel weniger scheu als die Männer, und
 plauderten ungezwungen und unaufhörlich. Sie überredeten ihre Herren und
 Gebieter sogar, uns etwas Tsamba und Butter zu verkaufen.
 
-:::: {.w-30 .break-before .float-left }
+:::: {.w-30    .float-left }
 ![Tibetanerin mit Tschukti.](Auf_verbotenen_Wegen_in_Tibet_352.jpg "Tibetanerin mit Tschukti."){#b352}
 ::::
 
@@ -206,7 +206,7 @@ das Läuten ihrer Glocken angekündigt; ein seltsamer Gebrauch, dessen Ursprung
 die Damen mir nicht anders erklären konnten, als daß sie sagten, er sei hübsch
 und gefalle ihnen.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Frau aus Lhassa.](Auf_verbotenen_Wegen_in_Tibet_353.jpg "Frau aus Lhassa."){#b353}
 ::::
 
@@ -229,10 +229,5 @@ ihrer Kleidung sind thatsächlich überall dieselben.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3100]: [Hirtenlager]{.footnote}

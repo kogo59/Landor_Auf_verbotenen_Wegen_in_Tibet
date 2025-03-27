@@ -87,7 +87,7 @@ sehen, die jetzt fast gänzlich verwaschen waren. Augenscheinlich war dies der
 Weg, den die Soldaten eingeschlagen hatten, denen wir auf der andern Seite des
 Maium-Passes begegnet waren.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Tibetanischer Hund.](Auf_verbotenen_Wegen_in_Tibet_339.jpg "Tibetanischer Hund."){#b339}
 ::::
 
@@ -117,7 +117,7 @@ uns bis an die Hüften reichte. Hier fanden wir wieder eine Mani-Mauer mit groß
 Inschriften auf Steinen. Da der Wind sehr stark und schneidend war, gedachten
 wir, sie als Schutz zu benutzen.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Straße nach Lhassa.](Auf_verbotenen_Wegen_in_Tibet_340.jpg "Straße nach Lhassa."){#b340}
 ::::
 
@@ -133,7 +133,7 @@ Sonnenaufgang alle verschwunden, und wir konnten auch, als wir in der Richtung
 marschirten, wo wir sie am Abend vorher gesehen hatten, keine Spuren von ihnen
 finden. Ich glaube, daß wir es mit einer Luftspiegelung zu thun gehabt hatten.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Luftspiegelung.](Auf_verbotenen_Wegen_in_Tibet_341.jpg "Luftspiegelung."){#b341}
 ::::
 
@@ -152,8 +152,3 @@ die Bezeichnung „Hügelzug“ besser für sie passen würde als der Name
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

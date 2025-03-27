@@ -40,7 +40,7 @@ Himmel ausbreiteten. Mit meinem Fernrohr konnte ich, besonders an der Ostseite,
 deutlich den Engpaß sehen, durch welchen die Anbeter die Runde um den Fuß des
 Berges machen.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Der heilige Berg Kelas.](Auf_verbotenen_Wegen_in_Tibet_224.jpg "Der heilige Berg Kelas."){#b224}
 ::::
 
@@ -148,7 +148,7 @@ war mehr eilig als würdevoll.
 Wir setzten unsern Weg zum Teufelssee fort. Um unser Essen zu kochen, hielten
 wir ungefähr einen Kilometer vom Ufer des Sees.
 
-:::: {.wrap-70 .break-before }
+:::: {.wrap-70    }
 ![Daku.](Auf_verbotenen_Wegen_in_Tibet_228.jpg "Daku."){#b228}
 ::::
 
@@ -161,7 +161,7 @@ meiner Flinte zu bemächtigen, ehe ich Zeit haben könnte, ihn zu entdecken. Zum
 Unglück für ihn war er nicht schnell genug, und so war alles, was ihm sein
 Versuch eintrug, eine tüchtige Tracht Prügel mit dem Kolben meines Mannlicher.
 
-:::: {.w-40 .break-before .float-right }
+:::: {.w-40    .float-right }
 ![Tibetanisches Weib mit schwarzer Salbe beschmiert.](Auf_verbotenen_Wegen_in_Tibet_229.jpg "Tibetanisches Weib mit schwarzer Salbe beschmiert."){#b229}
 ::::
 
@@ -193,7 +193,7 @@ zu locken, jedenfalls damit wir von ihren Männern ausgeplündert würden. Meine
 Leute schienen jedoch von ihren komischen Reden und Geberden wenig angezogen,
 und ich eilte vorwärts, um dieses gefährliche Pack möglichst bald los zu werden.
 
-:::: {.wrap-70 .break-before }
+:::: {.wrap-70    }
 ![Teufelssee mit dem heiligen Berge Kelas.](Auf_verbotenen_Wegen_in_Tibet_230.jpg "Teufelssee mit dem heiligen Berge Kelas."){#b230}
 ::::
 
@@ -206,7 +206,7 @@ Spiegel des Sees ein in die Bergwand eingebettetes Lager von gigantischen
 Fossilien. Es that mir sehr leid, daß es wegen ihrer Größe und ihres Gewichtes
 unmöglich war, sie auszugraben und mitzunehmen.
 
-:::: {.wrap-70 .break-before }
+:::: {.wrap-70    }
 ![Rakastal- und Mansarowar-See.](Auf_verbotenen_Wegen_in_Tibet_231.jpg "Rakastal- und Mansarowar-See."){#b231}
 ::::
 
@@ -234,10 +234,5 @@ bestanden hat. Der tiefste Punkt in dieser Depression liegt mehr als 100 Meter
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2000]: [*Rakastal*: vergleiche [Rakshastal](https://de.wikipedia.org/wiki/Rakshastal)]{.footnote}

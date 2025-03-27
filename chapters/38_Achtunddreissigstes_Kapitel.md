@@ -36,7 +36,7 @@ Schwertern vermehrt worden. In wüthendem Galopp ritten wir ab. Da meine Hände
 hinter dem Rücken gefesselt waren, führte ein vor mir herreitender Mann mein
 Pferd an einem Stricke; so ritten wir viele Meilen durchs Land.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Mein Versuch, zu Tschanden Sing zu gelangen.](Auf_verbotenen_Wegen_in_Tibet_414.jpg "Mein Versuch, zu Tschanden Sing zu gelangen." ){#b414}
 ::::
 
@@ -58,7 +58,7 @@ höher waren und immer kleiner wurden, je mehr sie sich dem Gebirgszuge im Norde
 näherten. Außerdem nahm ihre Zahl und Größe auch zu, je weiter wir nach Osten
 kamen.
 
-:::: {.w-40 .break-before .float-right  }
+:::: {.w-40    .float-right  }
 ![Sattel mit Stacheln.](Auf_verbotenen_Wegen_in_Tibet_415.jpg "Sattel mit Stacheln." ){#b415}
 ::::
 
@@ -96,7 +96,7 @@ Vor der Menge der Lamas und Soldaten, etwas von ihnen entfernt, hielt der Pombo
 in gelbem Rocke und Hose und mit dem sonderbaren spitzigen Hute auf dem Kopfe,
 auf einem prächtigen Pferde.
 
-:::: {.w-40 .break-before .float-right  }
+:::: {.w-40    .float-right  }
 ![Tibetanischer Fahnenträger.](Auf_verbotenen_Wegen_in_Tibet_417.jpg "Tibetanischer Fahnenträger." ){#b417}
 ::::
 
@@ -119,7 +119,7 @@ fing an, sich zu bäumen und nach hinten auszuschlagen. Ich konnte mich aber im
 Sattel behaupten, trotzdem die Eisenstacheln den untern Theil meines Rückens
 schrecklich zerfleischten.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Nerba´s Mordanschlag.](Auf_verbotenen_Wegen_in_Tibet_418.jpg "Nerba´s Mordanschlag." ){#b418}
 ::::
 
@@ -135,7 +135,7 @@ den Pombo führte, um ihm zu zeigen, wie ich mit Blut bedeckt war, sprach ich
 meine Zufriedenheit darüber aus, auf einem so vorzüglichen Pferde reiten zu
 dürfen.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Grausamer Sport meiner Wache.](Auf_verbotenen_Wegen_in_Tibet_419.jpg "Grausamer Sport meiner Wache." ){#b419}
 ::::
 
@@ -153,7 +153,7 @@ Bannern mit langen, im Winde flatternden vielfarbigen Bändern, alle in wüthend
 Galopp, schreiend, kreischend und zischend, inmitten eines betäubenden
 Geklingels von Tausenden von Pferdeglocken.
 
-:::: {.w-40 .break-before .float-right  }
+:::: {.w-40    .float-right  }
 ![Mein Rock mit den Spuren der Stacheln des Sattel.](Auf_verbotenen_Wegen_in_Tibet_420.jpg "Mein Rock mit den Spuren der Stacheln des Sattel." ){#b420}
 ::::
 
@@ -197,8 +197,3 @@ reichen Ritte gegen Sonnenuntergang an unserm Bestimmungsorte an.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

@@ -28,7 +28,7 @@ Schritte des schmalen Pfades schneefrei; sonst führten weite Strecken auf
 gefrorenem Schnee entlang, über Abgründen, in die hinabzublicken schon
 gefährlich war.
 
-:::: {.wrap-100 .break-before}
+:::: {.wrap-100   }
 ![Schneebrücke über den Kuti-Fluß.](Auf_verbotenen_Wegen_in_Tibet_080.jpg "Schneebrücke über den Kuti-Fluß."){#b080}
 ::::
 
@@ -45,7 +45,7 @@ Heil wieder auf dem ersten Ufer versuchen. So gingen wir wol ein halbes Dutzend
 mal über den Kuti hin und her, jedesmal nach einem steilen Abstieg, dem sofort
 ein steiler Anstieg folgte.
 
-:::: {.wrap-100 .break-before}
+:::: {.wrap-100   }
 ![Kuti.](Auf_verbotenen_Wegen_in_Tibet_081.jpg "Kuti."){#b081}
 ::::
 
@@ -179,7 +179,7 @@ Zwei- und Vierannastücken (1 Anna = ⅟₁₆ Rupie = 8,4 Pfennige), die ich mi
 meinem Bankier in Almora hatte kommen lassen und an deren Last die drei Mann zu
 tragen gehabt hatten!
 
-:::: {.w-40 .break-before .float-left}
+:::: {.w-40    .float-left}
 ![Mein Bankier in Almora.](Auf_verbotenen_Wegen_in_Tibet_086.jpg "Mein Bankier in Almora."){#b086}
 ::::
 
@@ -212,7 +212,7 @@ Die Briten, sagte er, seien Eindringlinge und hier nur geduldet. Er erklärte di
 Engländer für Feiglinge, die Furcht hätten vor den Tibetanern, obwol diese die
 Schokas bedrückten.
 
-:::: {.wrap-100 .break-before}
+:::: {.wrap-100   }
 ![Das Thal von Garbyang](Auf_verbotenen_Wegen_in_Tibet_087.jpg "Das Thal von Garbyang."){#b087}
 ::::
 
@@ -238,11 +238,6 @@ gehenden Sport ein Ende machte.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0800]: [*Rakastal-See*: vergleiche [Rakshastal](https://de.wikipedia.org/wiki/Rakshastal)]{.footnote}
 

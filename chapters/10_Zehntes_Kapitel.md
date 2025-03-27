@@ -164,7 +164,7 @@ auf dem Gipfel des Berges eine dicke Schicht zu liegen schien, hatte die
 Oberfläche des Felsens allmählich ganz glatt gemacht. Auf der andern Seite
 setzte sich der schmale Pfad wieder fort.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Die Tschongur-Brücke vor der Zerstörung.](Auf_verbotenen_Wegen_in_Tibet_111.jpg "Die Tschongur-Brücke vor der Zerstörung."){#b111}
 ::::
 
@@ -200,7 +200,7 @@ Vorwärtsbewegung freizumachen. So manövrirte ich weiter, bis ich die andere
 Seite erreichte und auf dem schmalen Pfade anlangte, der selbst nur etwa 15
 Centimeter breit war.
 
-:::: {.wrap-60 .break-before }
+:::: {.wrap-60    }
 ![Die gefährlichste Stelle am Kali.](Auf_verbotenen_Wegen_in_Tibet_112.jpg "Die gefährlichste Stelle am Kali."){#b112}
 ::::
 
@@ -251,7 +251,7 @@ Schalen mit einem reichen Mahle von Reis, Fleisch, Balab (gekochte
 Buchweizenblätter), sauerer und süßer Milch, geröstetem Korn mit Zucker,
 Tschapatis, Süßigkeiten, einheimischem Wein und Branntwein trugen.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Schoka-Haus mit primitiver Leiter.](Auf_verbotenen_Wegen_in_Tibet_116.jpg "Schoka-Haus mit primitiver Leiter."){#b116}
 ::::
 
@@ -294,7 +294,7 @@ Strom gefallen. Sie vermochte sich an den Felsen anzuklammern und wurde
 schließlich gerettet; aber das Kind war von Fels zu Fels gerissen worden und
 unter einem Schneetunnel verschwunden.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Die Photographie, die den Tod des Kindes verursachte.](Auf_verbotenen_Wegen_in_Tibet_118.jpg "Die Photographie, die den Tod des Kindes verursachte."){#b118}
 ::::
 
@@ -315,7 +315,7 @@ deinen Lasten. Ihr werdet dort alle umkommen.“
 Sie zeigte ihn mir: einer der stärksten unter den Trägern, die ich bei mir hatte
 und der am meisten darauf bestand, mich begleiten zu dürfen.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Schloßruine in Kuti.](Auf_verbotenen_Wegen_in_Tibet_119.jpg "Schloßruine in Kuti."){#b119}
 ::::
 
@@ -352,8 +352,3 @@ gebracht, und nun konnte ich ruhig aufbrechen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

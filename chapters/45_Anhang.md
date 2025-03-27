@@ -759,6 +759,5 @@ Ihr ergebener<br />
 ::::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^4500]: [Reproductionen von einigen der erwähnten Photographien sind diesem Buche beigefügt.]{.footnote}

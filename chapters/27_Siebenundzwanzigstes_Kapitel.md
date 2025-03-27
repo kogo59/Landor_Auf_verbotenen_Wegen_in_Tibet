@@ -53,7 +53,7 @@ zusammen und schliefen zuletzt fest ein. Zum ersten mal, seitdem ich in Tibet
 war, schlief ich wirklich gut, und es war heller Tag, als ich erwachte. Aber
 ach! Eine neue Ueberraschung erwartete uns.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Unser Lager im Schutze einer Felswand mit der Inschrift: „Om mani padme hum“.](Auf_verbotenen_Wegen_in_Tibet_305.jpg "Unser Lager im Schutze einer Felswand mit der Inschrift: „Om mani padme hum“."){#b305}
 ::::
 
@@ -82,7 +82,7 @@ dir und für dich sterben. Wir fürchten den Tod nicht. Uns thut es leid, dich
 leiden zu sehen, Sahib; aber kümmere dich nicht um uns. Wir sind nur arme Leute,
 darum hat es nichts zu bedeuten.“
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Yak mit wissenschaftlichen Instrumenten.](Auf_verbotenen_Wegen_in_Tibet_306.jpg "Yak mit wissenschaftlichen Instrumenten."){#b306}
 ::::
 
@@ -143,7 +143,7 @@ ritten sie an der Stelle vorbei, wo wir den Pfad verlassen hatten, und bemerkten
 wol infolge der Dunkelheit unsere den Abhang des Hügels hinaufführenden
 Fußspuren nicht.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Mit nur zwei Mann unterwegs.](Auf_verbotenen_Wegen_in_Tibet_308.jpg "Mit nur zwei Mann unterwegs."){#b308}
 ::::
 
@@ -184,7 +184,7 @@ nach der elenden Nacht, die wir verbracht hatten, durchaus nicht königlich zu
 Muthe, aber ich wollte, wenn es irgend möglich war, die Eingeborenen mit
 gebührender Achtung und Höflichkeit behandeln.
 
-:::: {.w-30 .float-left .break-before }
+:::: {.w-30 .float-left    }
 ![Kata.](Auf_verbotenen_Wegen_in_Tibet_310.jpg "Kata."){#b310}
 ::::
 
@@ -210,7 +210,7 @@ sie jetzt vor mir niederlegten. Damit überreichten sie mir eine Kata, die
 „Schärpe der Liebe und Freundschaft“, ein langes Stück dünner seidenartiger
 Gaze, dessen Enden zu einer Franse geschnitten waren.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![In strömendem Regen.](Auf_verbotenen_Wegen_in_Tibet_311.jpg "In strömendem Regen."){#b311}
 ::::
 
@@ -286,8 +286,3 @@ Dann beluden wir unsere Yaks und zogen weiter, als ob nichts vorgefallen wäre.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

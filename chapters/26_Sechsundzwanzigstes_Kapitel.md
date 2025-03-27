@@ -27,7 +27,7 @@ Hause hingen Hunderte von fliegenden Gebeten, und da die Leute oben auf ihren
 Dächern standen, uns beobachteten und lustig lachten und schwatzten, hatte der
 Ort ein ganz heiteres Aussehen.
 
-:::: {.wrap-60 .break-before }
+:::: {.wrap-60    }
 ![Tschokden.](Auf_verbotenen_Wegen_in_Tibet_288.jpg "Tschokden."){#b288}
 ::::
 
@@ -76,7 +76,7 @@ angesichts der baufälligen Gomba von Pangbu, die zwei Kilometer westlich von un
 lag, halt machten, um, von den Tibetanern ungesehen, die nöthigen Vorbereitungen
 für unsere Trennung zu treffen.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Gomba von Pangba.](Auf_verbotenen_Wegen_in_Tibet_290.jpg "Gomba von Pangba."){#b290}
 ::::
 
@@ -138,7 +138,7 @@ Heerde jedes Schaf, das man ihnen bezeichnete, trafen. Ich versuchte von diesen
 gefährlichen Weibern über das Land einige Auskunft zu erhalten, aber sie gaben
 vor, darüber gar nichts zu wissen.
 
-:::: {.wrap-20 .break-before .float-left }
+:::: {.wrap-20    .float-left }
 ![Schleuder.](Auf_verbotenen_Wegen_in_Tibet_292.jpg "Schleuder."){#b292}
 ::::
 
@@ -157,7 +157,7 @@ etwas Proviant zu verkaufen, was eine große Hülfe für uns gewesen wäre, da w
 keineswegs zu viel davon hatten. Wie dem auch sein mochte, würde der Besuch,
 wenn auch von der Vorsicht nicht gerathen, jedenfalls interessant sein.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Tibetanisches Zelt.](Auf_verbotenen_Wegen_in_Tibet_293.jpg "Tibetanisches Zelt."){#b293}
 ::::
 
@@ -210,7 +210,7 @@ uns üblichen Kopfbewegung.
 „Ngarang ne koroun. Lungba quorghen neh jelgun. Ich bin ein Pilger. Ich gehe,
 heilige Stätten anzusehen.“
 
-:::: {.wrap-60 .break-before  }
+:::: {.wrap-60     }
 ![Junger Tibetaner.](Auf_verbotenen_Wegen_in_Tibet_295.jpg "Junger Tibetaner."){#b295}
 ::::
 
@@ -236,7 +236,7 @@ gutem Stande sich so weit erniedrigen, jede entwürdigende Handlung zu begehen;
 er verliert dadurch nicht die Achtung seiner Stammesangehörigen, die ihrerseits
 immer bereit sind, dasselbe zu thun.
 
-:::: {.w-40 .break-before  .float-left }
+:::: {.w-40     .float-left }
 ![Amulettkapsel.](Auf_verbotenen_Wegen_in_Tibet_296.jpg "Amulettkapsel."){#b296}
 ::::
 
@@ -262,7 +262,7 @@ Amulettkapseln, die ihnen allen auf der Brust hingen, die hervorragendsten
 waren. Die größern dieser Amulette enthielten ein Bild Buddha's, die andern
 waren bloße Messing- oder Silberkapseln ohne jeden Inhalt.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Tibetanische Schwerter.](Auf_verbotenen_Wegen_in_Tibet_297.jpg "Tibetanische Schwerter."){#b297}
 ::::
 
@@ -281,7 +281,7 @@ verschiedenfarbige Lederzierathen auf den Gürteln und Taschen befestigt; mit
 Silber eingelegtes Eisen war die hauptsächlichste Art der Verzierung, und nach
 diesem vorzugsweise Silber.
 
-:::: {.wrap-60 .break-before }
+:::: {.wrap-60    }
 ![Tibetanischer Sattler.](Auf_verbotenen_Wegen_in_Tibet_298.jpg "Tibetanischer Sattler."){#b298}
 ::::
 
@@ -294,7 +294,7 @@ Tibetaner so Bedeutendes leisten. Auf den Scheiden der tibetanischen Schwerter
 sieht man häufig eingelegte Arbeit, in der das Blattmuster und verschiedenartige
 Schnörkel und geometrische Figuren die am meisten verwendeten Ornamente sind.
 
-:::: {.wrap-60 .break-before }
+:::: {.wrap-60    }
 ![Sattel.](Auf_verbotenen_Wegen_in_Tibet_299.jpg "Sattel."){#b299}
 ::::
 
@@ -316,7 +316,7 @@ Silberfiligran angebracht, und eine ähnliche Kunst ist auch in Schigatse
 bekannt; sonst aber wird an keinem andern Orte Tibets solch schöne Metallarbeit
 geübt.
 
-:::: {.w-40 .float-left .break-before }
+:::: {.w-40 .float-left    }
 ![Doppelsack.](Auf_verbotenen_Wegen_in_Tibet_300.jpg "Doppelsack."){#b300}
 ::::
 
@@ -337,7 +337,7 @@ immer noch eine Decke über das Kissen gelegt. Die kurzen eisernen Steigbügel
 zwingen den Reiter, mit gekrümmten Beinen zu sitzen, was, wenn man sich daran
 gewöhnt hat, eine nicht unbequeme Stellung ist.
 
-:::: {.w-30 .float-right .break-before }
+:::: {.w-30 .float-right    }
 ![Meine Packsättel für Yaks.](Auf_verbotenen_Wegen_in_Tibet_301.jpg "Meine Packsättel für Yaks."){#b301}
 ::::
 
@@ -360,8 +360,3 @@ erleidet.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

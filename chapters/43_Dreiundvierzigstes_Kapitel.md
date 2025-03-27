@@ -54,7 +54,7 @@ heftig hinter sich zu. Auch alle Dorfbewohner zogen sich eilig in ihre Häuser
 zurück, sodaß der Ort bis auf die paar Soldaten, die uns umgaben, ganz verödet
 schien.
 
-:::: {.wrap-60 .break-before  }
+:::: {.wrap-60     }
 ![Bettelmusikanten.](Auf_verbotenen_Wegen_in_Tibet_460.jpg "Bettelmusikanten." ){#b460}
 ::::
 
@@ -122,7 +122,7 @@ traten  wir die Reise nach dem eisigen Lumpiya-Paß an. Dies war Mord; die
 Tibetaner wußten dies wohl und rechneten darauf, den indischen Behörden sagen zu
 können, daß wir im Schnee eines natürlichen Todes gestorben seien.
 
-:::: {.wrap-60 .break-before  }
+:::: {.wrap-60     }
 ![Ein Unglücksbote.](Auf_verbotenen_Wegen_in_Tibet_463.jpg "Ein Unglücksbote." ){#b463}
 ::::
 
@@ -163,7 +163,7 @@ ausgehungert und erschöpft, wäre es für uns gänzlich nutzlos gewesen, gegen 
 solche Uebermacht zu kämpfen. Als sie jedoch sahen, daß wir frei dahergingen,
 schickten sie sich an auf uns zu schießen.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Unser plötzlicher Angriff auf die tibetanische Wache.](Auf_verbotenen_Wegen_in_Tibet_464.jpg "Unser plötzlicher Angriff auf die tibetanische Wache." ){#b464}
 ::::
 
@@ -180,7 +180,7 @@ protestirten wir nachdrücklich, indem wir sagten, daß wir es vorzögen, zu
 sterben, wo wir seien. Wir forderten sie auf, uns gleich auf der Stelle zu
 tödten, da wir nicht einen Schritt weiter nach Westen gehen würden.
 
-:::: {.wrap-60 .break-before  }
+:::: {.wrap-60     }
 ![Lapsang und der Privatsekretär des Jong Pen.](Auf_verbotenen_Wegen_in_Tibet_465.jpg "Lapsang und der Privatsekretär des Jong Pen." ){#b465}
 ::::
 
@@ -214,7 +214,7 @@ mußten hier halt machen, als ein neuer Brief vom Jong Pen kam, in dem er sagte,
 daß er sich anders besonnen habe und daß wir trotz alledem über den Lumpiya-Paß
 gehen müßten!
 
-:::: {.wrap-60 .break-before  }
+:::: {.wrap-60     }
 ![Das Höhlendorf Dagmar.](Auf_verbotenen_Wegen_in_Tibet_466.jpg "Das Höhlendorf Dagmar." ){#b466}
 ::::
 
@@ -294,7 +294,7 @@ Sibling. Dann gingen wir in einem großen Bogen zwischen Steinen und Blöcken um
 den hohen, schön geformten Berg herum, auf dessen Gipfel die Festung und die
 Klöster von Taklakot standen.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Tschokden bei Taklakot.](Auf_verbotenen_Wegen_in_Tibet_469.jpg "Tschokden bei Taklakot." ){#b469}
 ::::
 
@@ -308,10 +308,5 @@ Lehmhöhlen wohnen, und — befanden uns endlich wieder unter Freunden.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^4300]: [*Taklakot*: vergleiche [Burang](https://de.wikipedia.org/wiki/Burang)]{.footnote}

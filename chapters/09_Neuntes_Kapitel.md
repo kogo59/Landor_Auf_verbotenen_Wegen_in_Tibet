@@ -32,7 +32,7 @@ Abendländers doch wohlthuend, nicht etwa weil sie schnelle Uebergänge, Schnör
 oder irgendwelche kunstvolle Technik besäße, sondern weil sie den Eindruck von
 wahrem Gefühl macht.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Auf dem Wege zum Rambang.](Auf_verbotenen_Wegen_in_Tibet_090.jpg "Auf dem Wege zum Rambang."){#b090}
 ::::
 
@@ -96,7 +96,7 @@ Verlobung aufgehoben; wenn sie beide etwas von dem Kuchen essen und später ein
 Zwist zwischen ihnen entsteht, werden alle diejenigen, die der Handlung
 beiwohnten, als Zeugen dafür aufgerufen, daß die Heirath stattgefunden habe.
 
-:::: {.wrap-60 .break-before  }
+:::: {.wrap-60     }
 ![Schoka-Tibetanerin, Halbblut.](Auf_verbotenen_Wegen_in_Tibet_092.jpg "Schoka-Tibetanerin, Halbblut."){#b092}
 ::::
 
@@ -104,7 +104,7 @@ Oft schenkt man sich sogar diese einfache Ceremonie, und die Ehen der Schokas
 werden als glückliche und treue Verbindungen angefangen und fortgeführt, ohne
 daß irgendeine besondere Form von Gottesdienst oder Ritus den Bund heiligt.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Rambang-Mädchen mit Schmuck.](Auf_verbotenen_Wegen_in_Tibet_093.jpg "Rambang-Mädchen mit Schmuck."){#b093}
 ::::
 
@@ -123,7 +123,7 @@ Rambang-Kindern nur sehr wenige außereheliche Geburten. Die erstern sind aber s
 verabscheut, daß das Vorkommniß nicht als eine ernstliche Herabwürdigung des
 Rambangs betrachtet werden kann.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Klageweiber an die Bahre gebunden.](Auf_verbotenen_Wegen_in_Tibet_094.jpg "Klageweiber an die Bahre gebunden."){#b094}
 ::::
 
@@ -150,11 +150,11 @@ war, kamen die Dorfbewohner vollzählig heraus, um ihm die letzte Ehre zu
 erweisen, und nahmen ihre Plätze in dem Zuge ein, während dieser seinen Weg
 langsam dem Flusse zu nahm.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Aufbruch des Leichenzug.](Auf_verbotenen_Wegen_in_Tibet_096.jpg "Aufbruch des Leichenzug."){#b096}
 ::::
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Leichenverbrennungsofen der Schokas.](Auf_verbotenen_Wegen_in_Tibet_097.jpg "Leichenverbrennungsofen der Schokas."){#b097}
 ::::
 
@@ -171,7 +171,7 @@ ein großer Topf mit Butter neben ihn gestellt. Eine Messingschale voll Wein
 wurde über den Kopf gegossen und dann unter tiefem Schweigen Feuer an den
 Holzstoß gelegt.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Die Frauen umtanzen die Todtenpuppe.](Auf_verbotenen_Wegen_in_Tibet_098.jpg "Die Frauen umtanzen die Todtenpuppe."){#b098}
 ::::
 
@@ -183,7 +183,7 @@ Gliederpuppe wurde von ihnen mit den Kleidern des Verstorbenen angezogen und mit
 indischen, gold-, roth- und blaugestickten Geweben überdeckt; auf den Kopf wurde
 ein Turban gesetzt.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Die Ziege mit den Kleidern des Todten.](Auf_verbotenen_Wegen_in_Tibet_099.jpg "Die Ziege mit den Kleidern des Todten."){#b099}
 ::::
 
@@ -203,7 +203,7 @@ in der Hauptsache dieselben charakteristischen Eigenheiten und Bewegungen hat
 wie der Tanz der Frauen, so ist er gewöhnlich viel ungestümer, sodaß er fast den
 Charakter eines Kriegstanzes trägt.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Die Ziege mit den Kleidern des Todten.](Auf_verbotenen_Wegen_in_Tibet_100.jpg "Die Ziege mit den Kleidern des Todten."){#b100}
 ::::
 
@@ -213,7 +213,7 @@ Ghur und Miseri bewirthet. Während das Volk ißt, kehren die Damen des Hauses
 unter raschem Trommelschlag zu dem Bildniß zurück und verneigen sich wieder in
 feierlichen, langanhaltenden Verbeugungen.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Tanz der Männer um die Todtenpuppe.](Auf_verbotenen_Wegen_in_Tibet_101.jpg "Tanz der Männer um die Todtenpuppe."){#b101}
 ::::
 
@@ -242,7 +242,7 @@ ziehen und die es niederwerfen, ihm den Leib aufschlitzen und das Herz
 herausreißen oder dieses mit einem schnellen Ruck umdrehen, der augenblicklich
 tödtet.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Der Ziege wird das Herz herausgerissen.](Auf_verbotenen_Wegen_in_Tibet_103.jpg "Der Ziege wird das Herz herausgerissen."){#b103}
 ::::
 
@@ -260,7 +260,7 @@ verhängnißvollen Sprung wird das Thier in Stücke zerschmettert, und die
 Tibetaner sammeln die Ueberreste und essen sich an dem geschätzten Fleische
 ihres geliebten Yak voll.
 
-:::: {.w-40 .float-left .break-before }
+:::: {.w-40 .float-left    }
 ![Tödtung des geopferten Yaks.](Auf_verbotenen_Wegen_in_Tibet_104.jpg "Tödtung des geopferten Yaks."){#b104}
 ::::
 
@@ -273,8 +273,3 @@ während der Jahrhunderte dort angehäuft haben.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

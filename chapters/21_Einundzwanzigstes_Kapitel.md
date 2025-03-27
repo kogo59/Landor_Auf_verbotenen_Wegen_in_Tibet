@@ -57,7 +57,7 @@ Geldstück, bis es ganz blank war, dann schlug sie ihre feurigen Augen auf,
 starrte in die meinigen und streckte, um ihren Dank auszudrücken, die Zunge
 heraus.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Plötzliche Unterwürfigkeit der Banditen.](Auf_verbotenen_Wegen_in_Tibet_234.jpg "Plötzliche Unterwürfigkeit der Banditen."){#b234}
 ::::
 
@@ -90,7 +90,7 @@ die Yaks bezahlen sah. Aber wenn sie ein Auge auf meine Habseligkeiten richtete,
 so hielt ich meine beiden darauf, und ich sorgte dafür, daß meine Büchse nie aus
 meiner Hand und daß niemand mir je zu nahe kam.
 
-:::: {.w-40 .break-before .float-left }
+:::: {.w-40    .float-left }
 ![Wollener Rock und Gürtel.](Auf_verbotenen_Wegen_in_Tibet_236.jpg "Wollener Rock und Gürtel."){#b236}
 ::::
 
@@ -118,7 +118,7 @@ In einer Hinsicht that es mir leid, daß mein Zusammensein mit den Jogpas zu End
 war; denn, wenn sie auch zweifellos Briganten waren, so waren sie doch
 interessant.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Meine zwei schwarzen Yaks.](Auf_verbotenen_Wegen_in_Tibet_238.jpg "Meine zwei schwarzen Yaks."){#b238}
 ::::
 
@@ -147,7 +147,7 @@ aufnehmen kann. Dieser Sitte ist es zuzuschreiben, daß die meisten tibetanische
 Männer beim ersten Anblick den Eindruck sehr starken Körperbaues machen, während
 sie in Wahrheit von ziemlich schmächtiger Gestalt sind.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Tasche mit Stahl und Feuerstein.](Auf_verbotenen_Wegen_in_Tibet_239a.jpg "Tasche mit Stahl und Feuerstein."){#b239a}
 ::::
 
@@ -155,7 +155,7 @@ sie in Wahrheit von ziemlich schmächtiger Gestalt sind.
 ![Gürtel mit verschiedenen Utensilien.](Auf_verbotenen_Wegen_in_Tibet_239b.jpg "Gürtel mit verschiedenen Utensilien."){#b239b}
 ::::
 
-:::: {.w-40 .float-left .break-before}
+:::: {.w-40 .float-left   }
 ![Tibetanischer Hirte.](Auf_verbotenen_Wegen_in_Tibet_240.jpg "Tibetanischer Hirte."){#b240}
 ::::
 
@@ -184,7 +184,7 @@ der Fuß mit Ausnahme seines obern Theils von der dicken Sohle eingeschlossen
 ist, wodurch das Einklemmen der Zehen zwischen Steine verhindert wird, wenn man
 über Steinfelder geht.
 
-:::: {.w-30 .float-right .break-before}
+:::: {.w-30 .float-right   }
 ![Frauenstiefel.&nbsp;&nbsp;Stiefel aus Lhassa.](Auf_verbotenen_Wegen_in_Tibet_241a.jpg ""){#b241a}
 ::::
 
@@ -298,8 +298,3 @@ nachdem ich mich versichert hatte, daß er gut war, erwarb ich den Rest.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

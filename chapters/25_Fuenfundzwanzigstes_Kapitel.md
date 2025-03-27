@@ -281,7 +281,7 @@ die Flamme dann an die Papierzipfel der Kegel. Allem Anscheine nach hatte man
 zur Herstellung derselben Salpeter und Schwefel gemischt; sie brannten schnell
 und machten dabei ein Geräusch wie eine brennende Zündschnur.
 
-:::: {.w-30 .break-before .float-right }
+:::: {.w-30    .float-right }
 ![Der Wunderdoctor.](Auf_verbotenen_Wegen_in_Tibet_285.jpg "Der Wunderdoctor."){#b285}
 ::::
 
@@ -334,11 +334,5 @@ Und mit diesem berufswidrigen Dietum verließ er mich. —
 :::
 
 
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2500]: [*Aconit*: vergleiche [Aconitin](https://de.wikipedia.org/wiki/Aconitin)]{.footnote}

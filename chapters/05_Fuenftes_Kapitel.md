@@ -27,7 +27,7 @@ romantischen Orten in den Bergen sind mit diesen religiösen Zeichen ganz
 bedeckt. Eine große Zahl ähnlicher kleiner Flaggen sieht man auf den Dächern fast
 aller Schoka-Wohnungen, neben den Gräbern und an den Außenthoren der Dörfer.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Grab und fliegende Gebete.](Auf_verbotenen_Wegen_in_Tibet_043.jpg "Grab und fliegende Gebete."){#b043}
 ::::
 
@@ -185,7 +185,7 @@ zahlreicher zu sein als je.“
 
 „Da gehe ich ja einer recht lebhaften Zeit entgegen“, dachte ich bei mir.
 
-:::: {.w-40 .float-left .break-before }
+:::: {.w-40 .float-left    }
 ![Ein alter Schoka.](Auf_verbotenen_Wegen_in_Tibet_048.jpg "Ein alter Schoka."){#b048}
 ::::
 
@@ -240,7 +240,7 @@ Grenze zwischen Nepal und Kumaon. Von diesem hochgelegenen Punkte aus konnte man
 den schäumenden Strom sich meilenweit zwischen dichtbewaldeten Hügeln und Bergen
 hindurchschlängeln sehen, wie ein Silberband auf dunkelm, ruhigem Grunde.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Ein Zelt für einen „Sahib“.](Auf_verbotenen_Wegen_in_Tibet_050.jpg "Ein Zelt für einen „Sahib“."){#b050}
 ::::
 
@@ -261,7 +261,7 @@ behagliches Quartier mit einem ehrenvollern Unterkommen zu vertauschen, das mir
 der einäugige Lal Sing, ein Tokudar (Dorfschulze) und Bruder des Patwari, des
 Rechnungsführers für das Pargana, lieh.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Tokudar Lal Sing und sein Bruder.](Auf_verbotenen_Wegen_in_Tibet_051.jpg "Tokudar Lal Sing und sein Bruder."){#b051}
 ::::
 
@@ -273,9 +273,3 @@ ein raschelndes Geräusch von Zeltleinwand, und im nächsten Augenblick saß ich
 ohne Dach da und guckte die Sterne an.
 
 :::
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

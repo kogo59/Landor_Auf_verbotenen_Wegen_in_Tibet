@@ -32,7 +32,7 @@ benommen, daß wir uns zu unsern leichten Erfolgen kaum beglückwünschen konnte
 Uns kam das Gefühl, als ob wir wirklich überhaupt keinen Feind vor uns hätten,
 und dadurch wurden wir etwas unvorsichtig.  —
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![„Und ich gebe dir dies, damit du zurückgehst.“](Auf_verbotenen_Wegen_in_Tibet_366.jpg "„Und ich gebe dir dies, damit du zurückgehst.“"){#b366}
 ::::
 
@@ -116,7 +116,7 @@ hertrieben. Da wir nicht genug trockenes Brennmaterial finden konnten, um ein
 Feuer zu machen, betraute ich Man Sing damit, das Thier sicher nach unserm
 nächsten Lager zu geleiten, wo wir uns daran gütlich thun wollten.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Lastziege.](Auf_verbotenen_Wegen_in_Tibet_369.jpg "Lastziege."){#b369}
 ::::
 
@@ -173,7 +173,7 @@ war. Mein Muth sank, als ich auf sie los ging. Selbst als ich nur noch ein paar
 hundert Meter von ihr entfernt war, konnte ich Man Sing nicht erblicken. Was
 mochte aus ihm geworden sein?
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Die Yaks in Schlammlöchern.](Auf_verbotenen_Wegen_in_Tibet_371.jpg "Die Yaks in Schlammlöchern."){#b371}
 ::::
 
@@ -269,8 +269,3 @@ würde.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

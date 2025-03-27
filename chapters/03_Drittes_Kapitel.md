@@ -10,7 +10,7 @@ hagere Gestalt eines Mannes, der aus einer Rauchwolke herausragte.
 Pilgerfahrt nach dem heiligen See Mansarowar^[^0300]^ in Tibet zurückkehrt. Während des
 Sommers kommen viele dieser Fanatiker auf ihren Wallfahrten hier durch.“
 
-:::: {.w-40 .float-left .break-before}
+:::: {.w-40 .float-left   }
 ![Der Rajiwar, sein Bruder und dessen Sohn.](Auf_verbotenen_Wegen_in_Tibet_026.jpg "Der Rajiwar, sein Bruder und dessen Sohn."){#b026}
 ::::
 
@@ -30,7 +30,7 @@ Haaren schmückte seinen Hals. Seine Tage verbrachte er damit, sich in der Asche
 herumzuwälzen und selbstauferlegte leibliche Entbehrungen zu erdulden, um
 dadurch in den Zustand der Heiligkeit zu gelangen.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Fakir auf der Rückkehr vom Mansarowar-See.](Auf_verbotenen_Wegen_in_Tibet_027.jpg "Fakir auf der Rückkehr vom Mansarowar-See."){#b027}
 ::::
 
@@ -148,7 +148,7 @@ sein, und ich bewundere es so sehr, daß ich meinen Neffen eine englische
 Erziehung gegeben habe. Einer von ihnen dient jetzt der Maharanee (Königin)
 Victoria als politischer «Peschkar».“
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Der Rajiwar und sein Bruder in Dandies.](Auf_verbotenen_Wegen_in_Tibet_031.jpg "Der Rajiwar und sein Bruder in Dandies."){#b031}
 ::::
 
@@ -220,12 +220,6 @@ verschiedenen Berichten erfuhr ich nur, daß diese Höhle oder Grotte mit
 Skeletten von Vögeln und Vierfüßern angefüllt sei, die zufällig in diese Kammer
 des Todes gerathen waren.
 :::
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0300]: [*Mansarowar*: vergleiche [Manasarovar](https://de.wikipedia.org/wiki/Manasarovar)]{.footnote}
 

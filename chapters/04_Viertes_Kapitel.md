@@ -32,7 +32,7 @@ Himalaja-Kette vereinigt, befinden sich andere Gletscher von beträchtlicher
 Größe und Bedeutung; doch konnte ich ihre Namen nicht feststellen, mit Ausnahme
 des Lissar Seva, des nördlichsten von allen, der die Quelle des Lissar bildet.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Darma-Schokas und Tibetaner.](Auf_verbotenen_Wegen_in_Tibet_035.jpg "Darma-Schokas und Tibetaner."){#b035}
 ::::
 
@@ -76,7 +76,7 @@ zwang sie sogar, die Mehrzahl bürgerlicher und crimineller Vergehen vor die
 tibetanischen Behörden zu bringen, anstatt dieselben vor einem britischen
 Gerichtshofe verhandeln zu lassen.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![HIMALAJA-KETTE MIT NANDA DEVI UND TRISUL.](Auf_verbotenen_Wegen_in_Tibet_036.jpg "HIMALAJA-KETTE MIT NANDA DEVI UND TRISUL."){#b036}
 ::::
 
@@ -184,7 +184,7 @@ fast in gleichem Maße verwendet, dann grün. Gelb wird sehr sparsam benutzt. De
 Faden ist gut gezwirnt und wird vor dem Spinnen keiner Aufbereitung unterzogen,
 sodaß der festgewebte Stoff etwas fettig ist, wodurch er wasserdicht wird.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Webendes Schoka-Weib.](Auf_verbotenen_Wegen_in_Tibet_040.jpg "Webendes Schoka-Weib."){#b040}
 ::::
 
@@ -231,11 +231,6 @@ umschlangen meine Füße, während das Weibervolk mir das übliche hindostanisch
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0400]: [*Tal des Darma*: vergleiche [Darma Valley](https://en.wikipedia.org/wiki/Darma_Valley)]{.footnote}
 

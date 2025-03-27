@@ -309,10 +309,5 @@ den Athem auf dem Gesicht entstanden war.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1900]: [*Gartok*: vergleiche [Namru (Günsa)](https://de.wikipedia.org/wiki/Namru_(G%C3%BCnsa))]{.footnote}

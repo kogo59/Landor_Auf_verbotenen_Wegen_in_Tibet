@@ -22,11 +22,11 @@ Das schwere Gewitter während der Nacht hatte unser Zimmer überschwemmt, und nu
 in einer Ecke war es etwas trockener als auf dem übrigen Theil des Fußbodens; in
 dieser schliefen wir alle, in einen Haufen zusammengekrochen.
 
-:::: {.wrap-60 .break-before }
+:::: {.wrap-60    }
 ![Tibetanische Wahrsagerin](Auf_verbotenen_Wegen_in_Tibet_049c.jpg "Tibetanische Wahrsagerin."){#b049c}
 ::::
 
-:::: {.w-40 .break-before .float-left}
+:::: {.w-40    .float-left}
 ![Silbermünzen aus  Lhassa.](Auf_verbotenen_Wegen_in_Tibet_254a.jpg "Silbermünzen aus  Lhassa."){#b254a}
 ::::
 
@@ -66,11 +66,11 @@ Paste angewendet, um die Steine festzuhalten, und dann zerbrechen die
 Schmucksachen, so hübsch sie auch sind, immer schnell. Die Ohrringe sind
 gewöhnlich besser gearbeitet als die Broschen.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Inneres eines Serai.](Auf_verbotenen_Wegen_in_Tibet_255.jpg "Inneres eines Serai."){#b255}
 ::::
 
-:::: {.w-20 .break-before .float-right}
+:::: {.w-20    .float-right}
 ![Tibetanischer Ohrring.](Auf_verbotenen_Wegen_in_Tibet_257a.jpg "Tibetanischer Ohrring."){#b257a}
 ::::
 
@@ -101,7 +101,7 @@ verhältnißmäßig glatt. Zwei Henkel mit rohen Linienornamenten werden an den
 größern Gefäßen angebracht; für die Krüge mit längerm Hals und kleinerer
 Oeffnung genügt einer.
 
-:::: {.w-20 .break-before .float-left}
+:::: {.w-20    .float-left}
 ![Goldene Malachitbrosche.](Auf_verbotenen_Wegen_in_Tibet_258a.jpg "Goldene Malachitbrosche."){#b258a}
 ::::
 
@@ -147,7 +147,7 @@ als Opfer für den Gott Mahadeva in den See. Dann zogen sie sich an und kamen,
 mir ihre Salaams darzubringen, wobei sie behaupteten, jetzt glücklich und rein
 zu sein.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Töpfe vom Mansarowar-See.](Auf_verbotenen_Wegen_in_Tibet_259.jpg "Töpfe vom Mansarowar-See."){#b259}
 ::::
 
@@ -185,7 +185,7 @@ genügt, Seele und Körper zu reinigen.
 Um meine Leute zu erfreuen und mir selbst vielleicht etwas Glück zu bringen,
 schleuderte auch ich ein paar Geldstücke ins Wasser.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Lama-Kloster in Tucker.](Auf_verbotenen_Wegen_in_Tibet_260.jpg "Lama-Kloster in Tucker."){#b260}
 ::::
 
@@ -204,7 +204,7 @@ gelegentlicher, plötzlicher Schlag auf ein Gong machte die Luft vibriren, bis
 die Töne in einem allmählichen Diminuendo von dem Winde über den Heiligen See
 fortgetragen wurden.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Eingang in den Lama-Tempel von Tucker.](Auf_verbotenen_Wegen_in_Tibet_261.jpg "Eingang in den Lama-Tempel von Tucker."){#b261}
 ::::
 
@@ -348,8 +348,3 @@ Wechsel ihres Benehmens war mir eine Quelle der Verwunderung und der Neugier,
 bis ich einige Wochen später den Grund davon erfuhr.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

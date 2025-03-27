@@ -124,7 +124,7 @@ seine Hand auf die Schulter des Pombo, dessen Arme sich langsam mit
 ausgestreckten Händen erhoben und lange Zeit wie in einem kataleptischen
 Zustande so blieben, ohne sich auch nur um eines Zolles Breite zu rühren.
 
-:::: {.wrap-80 .break-before  }
+:::: {.wrap-80     }
 ![Der tanzende Pombo.](Auf_verbotenen_Wegen_in_Tibet_444.jpg "Der tanzende Pombo." ){#b444}
 ::::
 
@@ -141,7 +141,7 @@ immer näher an ihn heran, wobei sie inbrünstig betete und tiefe Seufzer und Ru
 der Bewunderung und fast des Schreckens bei einigen der unmöglichsten
 Verrenkungen seiner Glieder ausstieß.
 
-:::: {.wrap-80 .break-before  }
+:::: {.wrap-80     }
 ![Finale des Tanzes.](Auf_verbotenen_Wegen_in_Tibet_445.jpg "Finale des Tanzes." ){#b445}
 ::::
 
@@ -179,8 +179,3 @@ sie besonders anzuspannen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

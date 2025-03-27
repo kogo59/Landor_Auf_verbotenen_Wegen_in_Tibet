@@ -47,7 +47,7 @@ die kaum geeignet sind, ihn zu verbessern. Ueberdies war das Pulver so knapp,
 daß sie nur sehr selten Gelegenheit hatten zu üben; daher die geringe
 Fertigkeit.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Der Gunkyo-See.](Auf_verbotenen_Wegen_in_Tibet_329.jpg "Der Gunkyo-See."){#b329}
 ::::
 
@@ -103,7 +103,7 @@ Hörner von Yaks sowie von Ziegen und Schafen niedergelegt, auf welchen dieselbe
 Worte in die Knochen eingegraben und mit dem Blute der getödteten Thiere roth
 gefärbt waren.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Obo.](Auf_verbotenen_Wegen_in_Tibet_331.jpg "Obo."){#b331}
 ::::
 
@@ -142,7 +142,7 @@ machten uns Zeichen, auf sie zu warten. Natürlich thaten wir dies.
 erste Reiter und wies auf das Thal unter uns; „wir verbieten euch, es zu
 betreten.“
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![FLATTERNDE GEBETE AUF DEM MAIUM-PASS.](Auf_verbotenen_Wegen_in_Tibet_332.jpg "Flatternde Gebete auf dem Maium-Paß."){#b332}
 ::::
 
@@ -188,7 +188,7 @@ später großes Ungemach treffen würde, bedauerte ich durchaus nicht, daß ich 
 Befehlen der Soldaten nicht gehorcht hatte und in das verbotene Gebiet
 eingedrungen war.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Landor's Quelle des Brahmaputra.](Auf_verbotenen_Wegen_in_Tibet_334.jpg "Landor's Quelle des Brahmaputra."){#b334}
 ::::
 
@@ -225,11 +225,6 @@ wohl bewußt, aber dies machte uns die Reise nur um so interessanter.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2900]: [*Gunkyo-See*: vergleiche [Adhyatm Tal](http://wikimapia.org/#lang=en&lat=30.685754&lon=82.208633&z=11&m=w&show=/4607647/Adhyatm-Tal)]{.footnote}
 

@@ -297,8 +297,3 @@ mir zu folgen. Es waren mein Träger, Katschi und sechs Kulis.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

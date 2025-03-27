@@ -63,7 +63,7 @@ ich meine beiden Yaks zurück. Sie weigerten sich, sie zurückzugeben, und sagte
 sie seien zwölf Mann und fürchteten sich nicht vor einem Einzelnen. Dann stiegen
 sie von ihren Pferden und schienen bereit, zu kämpfen.
 
-:::: {.wrap-60 .break-before }
+:::: {.wrap-60    }
 ![Tibetanischer Räuber.](Auf_verbotenen_Wegen_in_Tibet_318.jpg "Tibetanischer Räuber."){#b318}
 ::::
 
@@ -166,7 +166,7 @@ Zelte und — sah eine Anzahl von schwarzen Gestalten, die vorsichtig auf uns
 zukrochen. In einem Augenblick war ich draußen, lief auf sie zu und rief so laut
 ich konnte:
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Geisterhafte Besucher.](Auf_verbotenen_Wegen_in_Tibet_322.jpg "Geisterhafte Besucher."){#b322}
 ::::
 
@@ -214,7 +214,7 @@ rothe und weiße Fahnen befestigt waren, gaben der sonst öden Scenerie von kahl
 Hügeln und Schnee einen Anflug von Farbe, und das Geklingel der Pferdeglocken
 belebte die Todtenstille dieser unwirthlichen Regionen.
 
-:::: {.w-30 .break-before .float-left }
+:::: {.w-30    .float-left }
 ![Tibetanische Luntenflinten.](Auf_verbotenen_Wegen_in_Tibet_324.jpg "Tibetanische Luntenflinten."){#b324}
 ::::
 
@@ -240,7 +240,7 @@ Angriff auf ihre Ehre als gute Reiter genaue Nachricht zu erlangen.
 „O nein! Unsere Pferde sind gut“, antwortete er, „und wir sind schnell
 gekommen.“
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![„Ich bin nur ein Abgesandter.“](Auf_verbotenen_Wegen_in_Tibet_325.jpg "„Ich bin nur ein Abgesandter.“"){#b325}
 ::::
 
@@ -289,8 +289,3 @@ Streitmacht in der der unsern entgegengesetzten Richtung davongaloppirte.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

@@ -24,7 +24,7 @@ Worten an, die sehr heftig klangen; aber da er classisches Tibetanisch sprach
 und ich nur die Umgangssprache, konnte ich kein Wort von dem, was er sagte,
 verstehen, und so bat ich ihn demüthig, nicht so schöne Worte zu gebrauchen.
 
-:::: {.w-40 .break-before .float-left }
+:::: {.w-40    .float-left }
 ![Der Pombo.](Auf_verbotenen_Wegen_in_Tibet_396.jpg "Der Pombo."){#b396}
 ::::
 
@@ -44,7 +44,7 @@ gut, als daß ich mein Mitleid mit dem Manne gezeigt hätte, weil ihm dies nur
 eine noch härtere Strafe zugezogen haben würde. So sah ich seiner Tortur zu, wie
 man auf ein alltägliches Vorkommniß blickt.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Tschanden Sing wird von den Lamas gepeitscht.](Auf_verbotenen_Wegen_in_Tibet_397.jpg "Tschanden Sing wird von den Lamas gepeitscht."){#b397}
 ::::
 
@@ -57,7 +57,7 @@ Offiziere nicht, was sie aus mir machen sollten; und je mehr ich bemerkte, wie
 gut mein Plan einschlug, desto höher schraubte ich meinen Muth, um meine Rolle
 so gut ich irgend konnte durchzuführen.
 
-:::: {.wrap-80 .break-before  }
+:::: {.wrap-80     }
 ![Tibetanischer Soldat.](Auf_verbotenen_Wegen_in_Tibet_398.jpg "Tibetanischer Soldat."){#b398}
 ::::
 
@@ -106,7 +106,7 @@ nicht fühlte, trotzdem meine arme Kopfhaut noch lange davon schmerzte und
 brannte. „Dann werden wir dich und deinen Diener schlagen, bis ihr aussagt, was
 wir wollen“, rief der Lama ärgerlich aus.
 
-:::: {.w-40 .break-before  .float-right }
+:::: {.w-40     .float-right }
 ![Tibetanischer Soldat.](Auf_verbotenen_Wegen_in_Tibet_399.jpg "Tibetanischer Soldat."){#b399}
 ::::
 
@@ -161,7 +161,7 @@ ein Zeichen zu verstehen, daß ich mich an seine Seite setzen solle.
 meinen Leuten von Lhassa gekommen, um dich festzunehmen, und jetzt bist du mein
 Gefangener. Doch du hast keine Furcht gezeigt, und ich achte dich.“
 
-:::: {.w-40 .break-before  .float-right }
+:::: {.w-40     .float-right }
 ![Offizier.](Auf_verbotenen_Wegen_in_Tibet_401.jpg "Offizier."){#b401}
 ::::
 
@@ -265,8 +265,3 @@ waren draußen postirt.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

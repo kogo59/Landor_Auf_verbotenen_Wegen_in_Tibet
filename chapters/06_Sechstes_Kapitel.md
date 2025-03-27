@@ -62,7 +62,7 @@ eilte zu Hülfe, aber da die Strömung den Baum hin und her warf, wurde auch er
 ins Wasser geschleudert. Erst nach Augenblicken ängstlicher Spannung gelang es,
 unter großen Anstrengungen die beiden Leute zu retten.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Der Nerpani-Pfad.](Auf_verbotenen_Wegen_in_Tibet_054.jpg "Der Nerpani-Pfad."){#b054}
 ::::
 
@@ -82,7 +82,7 @@ versehen ist. Ein dichter Sprühregen fällt auf einer Strecke von einigen drei�
 oder vierzig Meter aus großer Höhe herab. Der Weg ist hier sehr schmal und
 schlüpfrig, sodaß man nur langsam vorwärts kommt.
 
-:::: {.wrap-70 .break-before }
+:::: {.wrap-70    }
 ![Am Abgrund.](Auf_verbotenen_Wegen_in_Tibet_055.jpg "Am Abgrund."){#b055}
 ::::
 
@@ -98,7 +98,7 @@ das prachtvolle Kali-Thal mit seinen von hohen Schneegipfeln überragten
 gigantischen Felsen und Schluchten zu bewundern. Auf dem Tschai-Paß
 verzeichneten meine beiden Aneroide eine Höhe von 3410 Meter.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Der Tschai-Lek-Paß.](Auf_verbotenen_Wegen_in_Tibet_056.jpg "Der Tschai-Lek-Paß."){#b056}
 ::::
 
@@ -111,11 +111,11 @@ genannt und sind eine alte Institution unter den Schokas, von der ich später
 ausführlicher sprechen werde. Wie überall sind neben dem Passe einige hohe
 Pfähle mit fliegenden Gebeten und einer Glocke aufgestellt.
 
-:::: {.wrap-70 .break-before }
+:::: {.wrap-70    }
 ![DER NERPANI-PFAD.](Auf_verbotenen_Wegen_in_Tibet_057.jpg "DER NERPANI-PFAD."){#b057}
 ::::
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Schoka-Häuser.](Auf_verbotenen_Wegen_in_Tibet_057a.jpg "Schoka-Häuser."){#b057a}
 ::::
 
@@ -301,11 +301,3 @@ Majestät werden.
 
 :::
 
-
-
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

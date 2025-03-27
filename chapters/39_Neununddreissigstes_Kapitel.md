@@ -32,7 +32,7 @@ Als ich so festgebunden war, kam der Schurke Nerba, der auf mich geschossen
 hatte, und ergriff mich von hinten bei den Haaren. Mein Haar war lang, da es
 seit mehr als fünf Monaten nicht geschnitten worden war.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Die Lamas mit den Folterwerkzeugen.](Auf_verbotenen_Wegen_in_Tibet_422.jpg "Die Lamas mit den Folterwerkzeugen." ){#b422}
 ::::
 
@@ -53,7 +53,7 @@ Der eine hielt ein riesenhaftes Horn, das donnernde Töne von sich gab; von
 seinen Gefährten hatte der eine eine Trommel, der andere Becken. In einiger
 Entfernung schlug ein anderer Bursche auf ein ungeheueres Gong.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Die Musikanten.](Auf_verbotenen_Wegen_in_Tibet_423.jpg "Die Musikanten." ){#b423}
 ::::
 
@@ -82,7 +82,7 @@ diesen Worten erhob der Pombo seinen Arm und hielt mir den rothglühenden
 Eisenstab in einer Entfernung von 3 bis 5 Centimeter quer vor die Augen, sodaß
 er beinahe meine Nase berührte.
 
-:::: {.w-20 .break-before  .float-left}
+:::: {.w-20     .float-left}
 ![Das Taram.](Auf_verbotenen_Wegen_in_Tibet_424.jpg "Das Taram." ){#b424}
 ::::
 
@@ -97,7 +97,7 @@ es mir, als ob etwas Dunkles vor ihm das Sehen hinderte. Mit dem rechten Auge
 konnte ich noch ziemlich gut sehen, wenn auch alles, anstatt in seinen
 gewöhnlichen Farben, roth erschien.
 
-:::: {.wrap-70 .break-before  }
+:::: {.wrap-70     }
 ![DIE FOLTER MIT DEM GLÜHENDEN EISEN.](Auf_verbotenen_Wegen_in_Tibet_425.jpg "Die Folter mit dem glühenden Eisen." ){#b425}
 ::::
 
@@ -182,7 +182,7 @@ Beginnen fortzusetzen, aber die Ungeduld und die Unruhe der Menge hatten jetzt
 ihren Höhepunkt erreicht, und die in seiner Nähe stehenden Lamas gesticulirten
 wie wahnsinnig und feuerten ihn weiter an.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Ein grausames Spiel.](Auf_verbotenen_Wegen_in_Tibet_427.jpg "Ein grausames Spiel." ){#b427}
 ::::
 
@@ -229,8 +229,3 @@ Eine erregte Berathung folgte.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

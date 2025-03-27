@@ -190,8 +190,3 @@ oder vielmehr des Morgens zubrachten.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

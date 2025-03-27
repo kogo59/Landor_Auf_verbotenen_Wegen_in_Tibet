@@ -27,7 +27,7 @@ sehen ließen; auf dem Kopfe eine Mütze, ähnlich der von den chinesischen Beam
 getragenen, und an den Füßen schwere, lange, schwarze Stiefeln mit großen Nägeln
 auf den Sohlen.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Ankunft des Tarjum von Barka.](Auf_verbotenen_Wegen_in_Tibet_172.jpg "Ankunft des Tarjum von Barka."){#b172}
 ::::
 
@@ -152,7 +152,7 @@ Angeber nicht ganz geglaubt habe, aber da neue Zweifel in seiner Seele
 aufstiegen, schickte er in der Nacht zu mir und ließ uns bitten, auf dem Wege,
 den wir gekommen, wieder zurückzukehren.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Verhandlung mit dem Tarjum von Barka.](Auf_verbotenen_Wegen_in_Tibet_178.jpg "Verhandlung mit dem Tarjum von Barka."){#b178}
 ::::
 
@@ -201,8 +201,3 @@ gerathen hatte.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

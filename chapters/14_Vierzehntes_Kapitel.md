@@ -25,7 +25,7 @@ dicke Freunde mit den Dakoit-Banden, und diese werden es bald erfahren, daß wir
 Geld bei uns haben, und dann werden wir Gefahr laufen, heute Nacht angegriffen
 zu werden.“
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Begrüßung des heiligen Berges Kelas.](Auf_verbotenen_Wegen_in_Tibet_160.jpg "Begrüßung des heiligen Berges Kelas."){#b160}
 ::::
 
@@ -130,7 +130,7 @@ wieder und kamen bis auf wenige Meter heran. Es gelang mir, einige sehr gute
 Negative von ihnen zu bekommen, die später leider von den tibetanischen Behörden
 vernichtet wurden.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Wilde Pferde.](Auf_verbotenen_Wegen_in_Tibet_164.jpg "Wilde Pferde"){#b164}
 ::::
 
@@ -295,11 +295,6 @@ Schwertern und Dolchen flößten uns mehr Verachtung als Schrecken ein.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1400]: [*Gangri-Kette*: vergleiche [Gangdisê](https://de.wikipedia.org/wiki/Gangdis%C3%AA)]{.footnote}
 

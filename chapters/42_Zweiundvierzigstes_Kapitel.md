@@ -56,7 +56,7 @@ Wiederholung dessen, was ich in dem Kloster von Tucker erlebt hatte. Auch der
 Pombo kam, als er davon benachrichtigt wurde, unverzüglich herbei und
 betrachtete meine Finger; das Gerichtsverfahren wurde sofort eingestellt.
 
-:::: {.wrap-60 .break-before  }
+:::: {.wrap-60     }
 ![Tschanden Sing gefesselt.](Auf_verbotenen_Wegen_in_Tibet_448.jpg "Tschanden Sing gefesselt." ){#b448}
 ::::
 
@@ -142,7 +142,7 @@ auf den Boden warf. Begreiflicherweise konnte ich mich, wenn es regnete oder
 schneite, nicht zurechtfinden und mußte meine Peilungen nach den Beobachtungen
 des vorigen Tages berechnen.
 
-:::: {.w-40 .float-right .break-before  }
+:::: {.w-40 .float-right     }
 ![Reiter aus unserer Eskorte.](Auf_verbotenen_Wegen_in_Tibet_451.jpg "Reiter aus unserer Eskorte." ){#b451}
 ::::
 
@@ -185,7 +185,7 @@ für unbescheiden angesehen werden wird angesichts der Thatsache, daß ich der
 erste Europäer war, der sie besucht hat, und auch angesichts der besondern
 Umstände meiner Reise.  —
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Mit meinem Blute gezeichnete Kartenskizze.](Auf_verbotenen_Wegen_in_Tibet_454.jpg "Mit meinem Blute gezeichnete Kartenskizze." ){#b454}
 ::::
 
@@ -200,7 +200,7 @@ Ueber einen Paß, der weiter südlich gelegen und niedriger war als der Maium-Pa
 auf dem wir gesund, hoffnungsvoll und frei in die Provinz Hu-tsang gekommen
 waren, verließen wir sie jetzt verwundet, gebrochen, nackt und gefangen.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Soldat, eine Ziege durch Ersticken tödtend.](Auf_verbotenen_Wegen_in_Tibet_455.jpg "Soldat, eine Ziege durch Ersticken tödtend." ){#b455}
 ::::
 
@@ -235,8 +235,3 @@ sein Gebetsrad und betete die ganze Zeit inbrünstig.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

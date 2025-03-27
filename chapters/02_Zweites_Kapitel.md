@@ -162,7 +162,7 @@ Glanz an, als seine Wuth höher stieg. Mit sichtlicher Anstrengung öffnete er s
 weit, sodaß der ganze Kreis der Iris sich zeigte. Trotzdem starkes Licht auf
 sein Gesicht fiel, waren die Pupillen weit ausgedehnt.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Unter den Waldmenschen.](Auf_verbotenen_Wegen_in_Tibet_017.jpg "Unter den Waldmenschen."){#b017}
 ::::
 
@@ -213,7 +213,7 @@ jedem Knipsen der Feder.
 „Die Götter werden dir zürnen, weil du das thust“, sagte einer, indem er auf die
 Camera wies, — „wenn du uns nicht eine große weiße Münze gibst!“
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Raots mit Kindern.](Auf_verbotenen_Wegen_in_Tibet_019.jpg "Raots mit Kindern."){#b019}
 ::::
 
@@ -397,11 +397,6 @@ entsetzlicher Deutlichkeit in das Gedächtniß zurück!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0200]: [*Pithoragarh*: vergleiche [Pithoragarh](https://de.wikipedia.org/wiki/Pithoragarh)]{.footnote}
 

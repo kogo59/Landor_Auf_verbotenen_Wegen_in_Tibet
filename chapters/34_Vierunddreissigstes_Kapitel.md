@@ -31,7 +31,7 @@ brachte den Packsattel und die Lasten des kleinern Yaks zum Umkippen. Das so aus
 dem Gleichgewicht gebrachte Thier sank unter und erschien in seinem Kampfe um
 Luft und Leben noch zwei- oder dreimal auf der Oberfläche.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Versuch der Rettung meines Yaks.](Auf_verbotenen_Wegen_in_Tibet_377.jpg "Versuch der Rettung meines Yaks."){#b377}
 ::::
 
@@ -134,7 +134,7 @@ armen Burschen, als ich ihnen mein Mitgefühl aussprach; „solange wir noch Kra
 haben, uns zu bewegen, werden wir dir folgen, und wir werden zu dir stehen, was
 auch kommen möge.“
 
-:::: {.wrap-80 .break-before }
+:::: {.wrap-80    }
 ![Eine gründliche Labung.](Auf_verbotenen_Wegen_in_Tibet_381.jpg "Eine gründliche Labung."){#b381}
 ::::
 
@@ -184,7 +184,7 @@ zeigten sich die Eingeborenen sehr verschwiegen, wenn es sich darum handelte,
 den Namen des Lagerplatzes zu verrathen; einige nannten ihn Toxem, andere
 Taddju.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Tibetanisches Wachthaus.](Auf_verbotenen_Wegen_in_Tibet_383.jpg "Tibetanisches Wachthaus."){#b383}
 ::::
 
@@ -217,8 +217,6 @@ Stimmung; ich sah mich schon in der heiligen Stadt.
 ****
 ::::
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Der verhängnißvolle Pferdekauf](Auf_verbotenen_Wegen_in_Tibet_384.jpg "Der verhängnißvolle Pferdekauf."){#b384}
 ::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

@@ -91,7 +91,7 @@ war. Hierauf wurde mir von vier oder fünf kräftigen Männern ein Strick nach d
 andern um Füße und Knöchel gewunden und mit aller Macht angezogen, sodaß ich
 wieder wie vorher an dem Balken festgemacht war.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![In der Streckfolter.](Auf_verbotenen_Wegen_in_Tibet_433.jpg "In der Streckfolter." ){#b433}
 ::::
 
@@ -292,8 +292,3 @@ Die ergötzlichste Scene dieses Nachmittags sollte jedoch noch kommen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

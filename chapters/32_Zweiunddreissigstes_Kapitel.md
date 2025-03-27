@@ -97,7 +97,7 @@ Horizont steht, ist ihnen keine Annäherung erlaubt, und auch in gewissen
 Abschnitten und Zeiten des Jahres, so z. B. im Hochsommer und im tiefsten
 Winter, ist sie verboten.
 
-:::: {.w-40 .float-right .break-before }
+:::: {.w-40 .float-right    }
 ![Tibetanerin mit Kind.](Auf_verbotenen_Wegen_in_Tibet_359.jpg "Tibetanerin mit Kind."){#b359}
 ::::
 
@@ -147,7 +147,7 @@ Die Frau war jedoch schlau genug, die Offiziere des Jong Pen zu betrügen; sie
 packte ihr Zelt und all ihr Hab und Gut zusammen, ging bei Nacht still über die
 Grenze und stellte sich unter britischen Schutz.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Tibetanische Kinder.](Auf_verbotenen_Wegen_in_Tibet_360.jpg "Tibetanische Kinder."){#b360}
 ::::
 
@@ -164,7 +164,7 @@ eines hohen Beamten mit einem Manne niedern Ranges durchgeht. Die Frau wird zur
 Strafe ihrer Untreue gepeitscht; ihr Gatte fällt in Ungnade, und ihr Liebhaber
 wird aus der Stadt oder dem Lagerplatze ausgewiesen.
 
-:::: {.wrap-60 .break-before }
+:::: {.wrap-60    }
 ![Die Witwe aus Taklakot.](Auf_verbotenen_Wegen_in_Tibet_361.jpg "Die Witwe aus Taklakot."){#b361}
 ::::
 
@@ -245,10 +245,5 @@ ist!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^3200]: [*Libation*: vergleiche [Trankopfer](https://de.wikipedia.org/wiki/Trankopfer)]{.footnote}

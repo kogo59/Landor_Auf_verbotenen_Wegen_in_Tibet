@@ -85,7 +85,7 @@ Ich drang in ihn, nach dem Zelte zurückzukehren. Er stand still, um meine Hand
 zu ergreifen. Dann sagte mir der gute Mann mit gebrochener Stimme „Lebewohl“ und
 „Gott behüte Sie“.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![„Wie die Blinden gingen wir vorwärts.“](Auf_verbotenen_Wegen_in_Tibet_193.jpg "„Wie die Blinden gingen wir vorwärts.“"){#b193}
 ::::
 
@@ -217,7 +217,7 @@ Decke steckte und seine von dem Schnee ringsum geblendeten, schmerzenden Augen
 rieb. „Salaam, sahib“, fügte er hinzu, als er sein erstes Erstaunen überwunden
 hatte und mich bemerkte, und hob seine Hand graziös zur Stirn empor.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Eingeschneit!](Auf_verbotenen_Wegen_in_Tibet_198.jpg "Eingeschneit!"){#b198}
 ::::
 
@@ -278,8 +278,3 @@ erste Mahlzeit, die wir seit achtundvierzig Stunden gehabt hatten.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

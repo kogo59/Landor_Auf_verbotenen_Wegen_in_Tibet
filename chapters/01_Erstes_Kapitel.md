@@ -60,7 +60,7 @@ Theils im Tonga, einem zweiräderigen, von zwei Pferden gezogenen Wagen, theils
 zu Pferd, gelangte ich nach Naini-Tal^[^0102]^, einer Station in den Vorbergen des
 Himalaja, dem Sommersitze der Regierung der Nordwestprovinzen und Oudhs^[^0103]^.
 
-:::: {.wrap-100 .break-before}
+:::: {.wrap-100   }
 ![Mein chinesischer Paß.](Auf_verbotenen_Wegen_in_Tibet_003.jpg "Mein chinesischer Paß."){#b003}
 ::::
 
@@ -241,7 +241,7 @@ ein seltsames Geschöpf eintrat und mich begrüßend seine Dienste anbot.
 
 „Gut, dann will ich dich anstellen.“
 
-:::: {.wrap-100 .break-before}
+:::: {.wrap-100   }
 ![Aufbruch der Trägercolonne.](Auf_verbotenen_Wegen_in_Tibet_008.jpg "Aufbruch der Trägercolonne."){#b008}
 ::::
 
@@ -339,12 +339,6 @@ solle. Er war der muthigste von meinem ganzen Gefolge und hat bei mir
 ausgehalten durch dick und dünn.
 
 :::
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0100]: [*Bareilly*: vergleiche [Bareilly](https://de.wikipedia.org/wiki/Bareilly)]{.footnote}
 

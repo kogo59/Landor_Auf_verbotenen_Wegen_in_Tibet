@@ -26,7 +26,7 @@ meine Leute Holz sammelten, um ein großes Feuer zu unterhalten, um das wir
 herumsaßen, kamen zwei Kulis, die mit der Weisung, uns zu folgen, in Kuti
 zurückgelassen worden waren, mit ihren Lasten an.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Aussätzige.](Auf_verbotenen_Wegen_in_Tibet_124.jpg "Aussätzige."){#b124}
 ::::
 
@@ -66,7 +66,7 @@ Das knisternde Feuer war im Erlöschen, als plötzlich ein stämmiger Tibetaner
 erschien, tief gebückt unter der schweren Last eines ungeheuern Baumstammes, den
 er auf dem Rücken trug. Er kam näher und warf das Holz auf das Feuer.
 
-:::: {.wrap-60 .break-before }
+:::: {.wrap-60    }
 ![Man Sing, der Aussätzige.](Auf_verbotenen_Wegen_in_Tibet_126.jpg "Man Sing, der Aussätzige."){#b126}
 ::::
 
@@ -156,7 +156,7 @@ ist, der den Paß während des Sommers überschreitet. Ein ebensolches Zeichen
 sieht man auch oben auf einem großen, aus dem Wasser des größern Sees
 hervorragenden Felsen.
 
-:::: {.wrap-60 .break-before }
+:::: {.wrap-60    }
 ![Man Sing, der Aussätzige.  H. S. Landor. Tschanden Sing, der Expolizist. Der Verfasser und seine zwei treuen Gefährten.](Auf_verbotenen_Wegen_in_Tibet_128.jpg "Der Verfasser und seine zwei treuen Gefährten."){#b128}
 ::::
 
@@ -169,7 +169,7 @@ einen Bad noch durchnäßt und vor Kälte zitternd, mußten wir bald darauf den
 nächsten Bach durchwaten, und dies wiederholte sich des öftern, sodaß wir unter
 der beständigen Kälte sehr litten.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Der Jolinkan- oder Lebung-Paß.](Auf_verbotenen_Wegen_in_Tibet_129.jpg "Der Jolinkan- oder Lebung-Paß."){#b129}
 ::::
 
@@ -263,7 +263,7 @@ Klauen. Um eine Wiederholung des Vorkommnisses zu verhindern, befahl ich dem
 Schuldigen, in Zukunft eine schwere Last von photographischen Platten und
 Instrumenten zu tragen, die nicht ganz so appetiterregend sein würden.
 
-:::: {.wrap-60 .break-before }
+:::: {.wrap-60    }
 ![Unser Lager im Schnee.](Auf_verbotenen_Wegen_in_Tibet_134.jpg "Unser Lager im Schnee."){#b134}
 ::::
 
@@ -327,7 +327,7 @@ Als er sich anschickte, einen zweiten zu machen, bemerkte er zu seinem großen
 Erstaunen, daß der erste sich in festen Stein verwandelt und einen ungeheuern
 Umfang angenommen hatte.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Die Schneelinie in 4870 Meter Höhe.](Auf_verbotenen_Wegen_in_Tibet_137.jpg "Die Schneelinie in 4870 Meter Höhe."){#b137}
 ::::
 
@@ -356,8 +356,3 @@ wird.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

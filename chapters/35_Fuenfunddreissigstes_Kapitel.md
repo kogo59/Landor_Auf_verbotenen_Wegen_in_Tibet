@@ -55,7 +55,7 @@ ja kaum noch — war es zuzuschreiben, daß ich im stande war, mich etwa zwanzig
 Minuten lang gegen sie zu behaupten! Meine Kleider wurden bei dem Kampfe in
 Fetzen gerissen.
 
-:::: {.w-40 .break-before .float-right }
+:::: {.w-40    .float-right }
 ![Gefangen!](Auf_verbotenen_Wegen_in_Tibet_387.jpg "Gefangen!"){#b387}
 ::::
 
@@ -157,7 +157,7 @@ Vorgang aufbauten. Sie betrachteten ihn als ein böses Zeichen. Natürlich
 benutzte ich jeden kleinen Vorfall solcher Art, um auf ihren Aberglauben
 einzuwirken und sie soviel als möglich in Furcht zu versetzen.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Wir werden zum Verhör geschleppt.](Auf_verbotenen_Wegen_in_Tibet_390.jpg "Wir werden zum Verhör geschleppt."){#b390}
 ::::
 
@@ -173,7 +173,7 @@ Jubelrufen, Zischen und Siegesgeschrei davon, wobei sie ihre Luntenflinten in
 die Luft abschossen, während sie uns als Gefangene in die Ansiedelung
 hineinschleppten.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Durchsuchung meiner Habe.](Auf_verbotenen_Wegen_in_Tibet_391.jpg "Durchsuchung meiner Habe."){#b391}
 ::::
 
@@ -219,7 +219,7 @@ und nicht recht wußten, was sie daraus machen sollten. Jedenfalls hatte sich de
 erste Eifer des Boten merklich abgekühlt, und ich wurde mit mehr Widerwillen als
 Entschiedenheit hinausgeführt.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Das Zelt des Pombo.](Auf_verbotenen_Wegen_in_Tibet_393.jpg "Das Zelt des Pombo."){#b393}
 ::::
 
@@ -250,8 +250,3 @@ trat eine Pause ein.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

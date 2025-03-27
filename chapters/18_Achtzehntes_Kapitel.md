@@ -56,7 +56,7 @@ brachte uns auf ein Plateau von 5000 Meter Höhe, von dem wir eine schöne
 Aussicht hatten über den schneebedeckten Höhenzug, der von Osten nach Westen vom
 Mangschan-Berge bis zum Lippu-Paß läuft.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100    }
 ![Dakoit mit erbeuteter Schafherde.](Auf_verbotenen_Wegen_in_Tibet_204.jpg "Dakoit mit erbeuteter Schafherde."){#b204}
 ::::
 
@@ -239,7 +239,7 @@ nicht erschienen, fingen wir an, Sorge um ihr Geschick zu hegen. Sollten sie uns
 verrathen haben und nie wieder zurückkehren? Oder waren sie vom Jong Pen, dem
 „Herrn der Festung“, gefangen genommen und gefoltert worden?
 
-:::: {.wrap-60 .break-before }
+:::: {.wrap-60    }
 ![Im Schreckenslager.](Auf_verbotenen_Wegen_in_Tibet_210.jpg "Im Schreckenslager."){#b210}
 ::::
 
@@ -284,11 +284,6 @@ zahlreichen Prüfungen, die uns hier widerfuhren.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1800]: [*Martini-Henry*: vergleiche [Martini-Henry-Gewehr](https://de.wikipedia.org/wiki/Martini-Henry-Gewehr)]{.footnote}
 

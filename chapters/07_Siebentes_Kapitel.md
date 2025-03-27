@@ -93,7 +93,7 @@ getragen. Ich mußte nolens volens folgen, und von jenem Tage an wurde ich durch
 beständigen Verkehr mehr und mehr von der natürlichen Freundlichkeit und
 Gutherzigkeit dieser Leute überzeugt.
 
-:::: {.w-40 .break-before .float-left}
+:::: {.w-40    .float-left}
 ![Mein Haus in Garbyan.](Auf_verbotenen_Wegen_in_Tibet_067.jpg "Mein Haus in Garbyan."){#b067}
 ::::
 
@@ -127,7 +127,7 @@ unter ihnen zu verweilen, um einen Einblick in ihre Lebensweise, ihre Sitten und
 Gebräuche erlangen und vor allen Dingen die unveränderliche Freundlichkeit
 dieser ehrlichen Gebirgsbewohner würdigen und genießen zu können.
 
-:::: {.wrap-100 .break-before}
+:::: {.wrap-100   }
 ![Morgentoilette eines jungen Schoka.](Auf_verbotenen_Wegen_in_Tibet_068.jpg "Morgentoilette eines jungen Schoka."){#b068}
 ::::
 
@@ -136,7 +136,7 @@ thaten sie alles, was in ihren Kräften stand, meinen Aufenthalt unter ihnen
 angenehm zu machen. Es war ein förmlicher Wettstreit zwischen ihnen, wer mich
 zuerst bewirthen und wer folgen sollte.
 
-:::: {.wrap-100 .break-before}
+:::: {.wrap-100   }
 ![Haus eines vornehmen Schoka.](Auf_verbotenen_Wegen_in_Tibet_068a.jpg "Haus eines vornehmen Schoka."){#b068a}
 ::::
 
@@ -175,7 +175,7 @@ Bewegung, und ehe nur ein Tropfen Zeit gehabt hat, zwischen den Finger
 hindurchzuschlüpfen, läßt man den Bissen in den Mund gelangen, indem man ihn
 halb wirft, halb fallen läßt.
 
-:::: {.wrap-100 .break-before}
+:::: {.wrap-100   }
 ![Schoka-Haus mit einem rauchenden alten Weibe.](Auf_verbotenen_Wegen_in_Tibet_072.jpg "Schoka-Haus mit einem rauchenden alten Weibe."){#b072}
 ::::
 
@@ -192,7 +192,7 @@ und lehrten mich ihre Tänze. Sie brachten mich zu ihren Hochzeiten und ihren
 seltsamen Leichenfeierlichkeiten, führten mich zu den kranken Männern, Weibern
 und Kindern, oder schickten sie zu mir, damit ich sie heilen sollte.
 
-:::: {.wrap-100 .break-before}
+:::: {.wrap-100   }
 ![Straße in Garbyang.](Auf_verbotenen_Wegen_in_Tibet_072a.jpg "Straße in Garbyang."){#b072a}
 ::::
 
@@ -209,7 +209,7 @@ Durch ein abermaliges Ueberschreiten des Flusses wieder in Kumaon angelangt,
 schlug ich mein Lager bei Gungi auf. Ehe ich das Dorf betrat, kam ich an Dr.
 Wilson's noch nicht vollendeter Apotheke vorbei.
 
-:::: {.wrap-100 .break-before}
+:::: {.wrap-100   }
 ![Der Rabi Schankom bei Gungi.](Auf_verbotenen_Wegen_in_Tibet_073.jpg "Der Rabi Schankom bei Gungi."){#b073}
 ::::
 
@@ -217,7 +217,7 @@ Der Ort war malerisch gelegen und hob sich scharf von dem merkwürdigen
 Hintergrund ab, den der kuppelförmige Berg Rabi Schankom bildet, ein
 ungewöhnlich schöner Gipfel mit grau und roth gestreiften Gesteinsschichten.
 
-:::: {.w-40 .float-left .break-before}
+:::: {.w-40 .float-left   }
 ![Gungi Schankom.](Auf_verbotenen_Wegen_in_Tibet_074.jpg "Gungi Schankom."){#b074}
 ::::
 
@@ -263,7 +263,7 @@ ausreichender Größe gemacht war, um den Fuß hineinstellen und sich aufrecht
 halten zu können. Es mußte dabei jedesmal sehr vorsichtig zu Werke gegangen
 werden, aber leider fehlte mir die Geduld dazu.
 
-:::: {.wrap-100 .break-before}
+:::: {.wrap-100   }
 ![Der Gräberplatz Tschiram.](Auf_verbotenen_Wegen_in_Tibet_077.jpg "Der Gräberplatz Tschiram."){#b077}
 ::::
 
@@ -302,8 +302,3 @@ erreichen konnte.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

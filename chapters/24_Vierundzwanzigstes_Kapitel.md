@@ -64,7 +64,7 @@ Familie treten in die Mönchsorden ein. Auf diese Weise erlangen die Mönche ein
 große Macht über jedes Haus und Zeltlager. Es ist kaum eine Uebertreibung, wenn
 man sagt, daß die Hälfte der männlichen Bevölkerung in Tibet aus Lamas besteht.
 
-:::: {.w-40 .break-before .float-right }
+:::: {.w-40    .float-right }
 ![Lama.](Auf_verbotenen_Wegen_in_Tibet_269.jpg "Lama."){#b269}
 ::::
 
@@ -88,7 +88,7 @@ religiösen Ceremonien, bei denen die Lamas, in Felle und gräßliche Masken
 verkleidet, singen und mit außerordentlichen Verrenkungen tanzen, begleitet von
 einer unheimlichen Musik von Glocken, Hörnern, Flöten, Cymbeln und Trommeln.
 
-:::: {.w-40 .break-before .float-left }
+:::: {.w-40    .float-left }
 ![Junger Lama.](Auf_verbotenen_Wegen_in_Tibet_270.jpg "Junger Lama."){#b270}
 ::::
 
@@ -148,7 +148,7 @@ gelang es mir, zwei von diesen sehr schweren Inschriftensteinen ungesehen
 fortzubringen, die noch in meinem Besitz sind; von dem einen ist nachstehend
 eine Abbildung beigefügt.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Mani-Stein mit zweimaligem „Om mani padme hum“.](Auf_verbotenen_Wegen_in_Tibet_272.jpg "Mani-Stein mit zweimaligem „Om mani padme hum“."){#b272}
 ::::
 
@@ -198,7 +198,7 @@ Lama besitzt eine. Sie bewahren sie sehr eifersüchtig, und es ist sehr schwer,
 solche zu bekommen. Ich war so glücklich, während meiner Reise nicht weniger als
 zwölf kaufen zu können, von denen zwei sehr alt waren.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Gebetsräder.](Auf_verbotenen_Wegen_in_Tibet_274.jpg "Gebetsräder"){#b274}
 ::::
 
@@ -229,12 +229,5 @@ trinken, die aus Menschenschädeln gemacht sind.
 
 :::
 
-
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^2400]: [*Mesmerismus*: vergleiche [Animalischer Magnetismus](https://de.wikipedia.org/wiki/Animalischer_Magnetismus)]{.footnote}

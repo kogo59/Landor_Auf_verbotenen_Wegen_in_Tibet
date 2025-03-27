@@ -28,7 +28,7 @@ Später am Tage untersuchte Dr. Wilson meine Wunden und  Verletzungen und sandte
 darüber ausführliche Berichte direct an die indische Regierung, an den Commissar
 von Kumaon und an den stellvertretenden Commissar in Almora.
 
-:::: {.wrap-60 .break-before  }
+:::: {.wrap-60     }
 ![Peschkar Charak Sing.](Auf_verbotenen_Wegen_in_Tibet_472.jpg "Peschkar Charak Sing." ){#b472}
 ::::
 
@@ -45,7 +45,7 @@ meiner Mutter erwähnt habe, mehrere mathematische Instrumente, Sammlungen, übe
 400 photographische Negative und verschiedene andere Gegenstände fehlten^[^4400]^, aber
 ich war schon froh, so viel zurückzubekommen.
 
-:::: {.wrap-60 .break-before  }
+:::: {.wrap-60     }
 ![Dr. H. Wilson.](Auf_verbotenen_Wegen_in_Tibet_473.jpg "Dr. H. Wilson." ){#b473}
 ::::
 
@@ -86,7 +86,7 @@ werden. So habe ich es einzig den freundlichen Bemühungen und der Energie diese
 beiden Herren zu verdanken, daß ich heute noch am Leben und munter, wenn auch
 noch nicht gesund bin.
 
-:::: {.wrap-60 .break-before  }
+:::: {.wrap-60     }
 ![DER TARJUM VON TOKTSCHIM.](Auf_verbotenen_Wegen_in_Tibet_474.jpg "Der Tarjum von Toktschim." ){#b474}
 ::::
 
@@ -96,7 +96,7 @@ die Unterhandlungen über meine sofortige Freilassung geführt wurden; daß dies
 Unterhandlungen zu einem befriedigenden Ende führten, war hauptsächlich dem
 guten Rathe zuzuschreiben, den er dem Jong Pen ertheilt hatte.
 
-:::: {.w-40 .break-before .float-right  }
+:::: {.w-40    .float-right  }
 ![Pundit Gobari.](Auf_verbotenen_Wegen_in_Tibet_475.jpg "Pundit Gobari." ){#b475}
 ::::
 
@@ -124,7 +124,7 @@ Sing's Beinen, die wir zur selben Zeit photographirten, waren, wenn auch
 geheilt, doch noch sehr geschwollen, und die Stellen, wo die Peitschenhiebe
 große Stücke Haut und Fleisch abgerissen hatten, waren noch sichtbar.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Meine Füße.](Auf_verbotenen_Wegen_in_Tibet_476.jpg "Meine Füße." ){#b476}
 ::::
 
@@ -149,7 +149,7 @@ unternahm ich noch einen Ausflug nach dem Dorfe Tinker in Nepal. Es besteht aus
 einigen Schoka-Häusern und hat die prächtigen Schneegipfel zum Hintergrunde, die
 Nepal von Tibet trennen.
 
-:::: {.w-40 .break-before .float-right  }
+:::: {.w-40    .float-right  }
 ![Tschanden Sing's Beine.](Auf_verbotenen_Wegen_in_Tibet_477.jpg "Tschanden Sing's Beine." ){#b477}
 ::::
 
@@ -168,7 +168,7 @@ Wenn ich auch noch viel Schmerzen zu leiden hatte, erbot ich mich doch, den Weg
 nach Tibet noch einmal zu machen und ihn bis an die Grenze zu begleiten. In
 schnellen Tagemärschen erreichten wir Garbyang.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Palast des Rajiwar in Askot.](Auf_verbotenen_Wegen_in_Tibet_478.jpg "Palast des Rajiwar in Askot." ){#b478}
 ::::
 
@@ -184,7 +184,7 @@ gefielen; so wurde der Kampf allgemein, bis es mir, trotzdem ich krank und
 allein gegen hundertfünfzig Mann war, wirklich gelang, sie in die Flucht zu
 schlagen!
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Dorf Tinker.](Auf_verbotenen_Wegen_in_Tibet_479.jpg "Dorf Tinker." ){#b479}
 ::::
 
@@ -197,7 +197,7 @@ Schneefeldern empor. Wir waren nur noch einen Tagemarsch von dem Lippu-Paß
 entfernt, über den wir nach Tibet gehen wollten, um dem Jong Pen Gelegenheit zu
 geben, sich befragen zu lassen. Er aber weigerte sich zu kommen.
 
-:::: {.w-40 .break-before .float-right  }
+:::: {.w-40    .float-right  }
 ![J. Larkin.](Auf_verbotenen_Wegen_in_Tibet_480.jpg "J. Larkin." ){#b480}
 ::::
 
@@ -222,7 +222,7 @@ im stande war, eine ungewöhnliche Kälte zu ertragen. Thatsächlich hingen mir
 sofort Eiszapfen auf jeder Seite des Halses herab und ein Shawl von Eis lag auf
 den Schultern.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Die Schokas auf der Flucht.](Auf_verbotenen_Wegen_in_Tibet_480a.jpg "Die Schokas auf der Flucht." ){#b480a}
 ::::
 
@@ -244,7 +244,7 @@ die Wohnstätten der Raots besucht, wird Unglück haben.“ Ich photographirte d
 Schelm auf der Stelle mit einigen seiner Stammesgenossen, die befriedigt auf
 ihren Propheten hörten.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Mein Bad in 5000 Meter Höhe.](Auf_verbotenen_Wegen_in_Tibet_481.jpg "Mein Bad in 5000 Meter Höhe." ){#b481}
 ::::
 
@@ -261,7 +261,7 @@ wenn ich je wieder nach Tibet zurückkehren sollte, ich ihn mitnehmen möchte. N
 müsse er das nächste mal auch eine Büchse bekommen! Dies war seine einzige
 Bedingung!
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100     }
 ![Der Unglücksprophet.](Auf_verbotenen_Wegen_in_Tibet_482.jpg "Der Unglücksprophet." ){#b482}
 ::::
 
@@ -270,13 +270,6 @@ Bombay und von dort direct nach Florenz, dem Wohnorte meiner Eltern, die um
 meinetwegen mehr Angst ausgestanden hatten als ich selbst — — auf verbotenen
 Wegen!
 
-
 :::
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^4400]: [Die indische Regierung erlangte mehrere Monate später einige der fehlenden Gegenstände wieder zurück.]{.footnote}
